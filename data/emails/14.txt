@@ -1,0 +1,1704 @@
+b" You can also view this email in your browser . Google Cloud Newsletter |
+January 2018 2018 infrastructure outlook $30 billion invested over the past
+three years. Five new regions. Three new undersea cables. Weâre just getting
+started. SEE THE NETWORK
+\-----------------------------------------------------------------------------
+Urs HÃ¶lzle on the history, security, and future of cloud WATCH THE VIDEO  Sam
+Ramji: making GCP the most developer-friendly cloud LEARN HOW
+\-----------------------------------------------------------------------------
+PLATFORM NEWS Announcing Cloud AutoML: drag-and-drop machine learning  From
+weekend warriors to Disney marketers, AutoML Vision  lets anyone use a drag-
+and-drop interface to upload images and train, manage, and deploy custom
+models directly on GCP. Preemptible GPUs now 50% cheaper than on-demand
+equivalents  Attach NVIDIA K80 and P100 GPUs to preemptible VMs for $0.22 and
+$0.73 per GPU hour, respectively. Use GPUs at predictable, affordable prices
+for large-scale ML and other computational batch workloads. Google Kubernetes
+Engine 1.9 is now available for early access  Greater support for stateful and
+stateless apps. Storage interoperability. Hardware accelerator support for ML
+workloads. Run your production-ready apps on GKE 1.9, and let us manage the
+infrastructure. OpenCensus: new, simplified stats collection and tracing
+OpenCensus, the vendor-neutral, open-source version of Googleâs Census
+library, automatically collects traces and metrics from your app, displays
+them locally, and sends them to analysis tools like Stackdriver and Cloud
+Bigtable.
+\-----------------------------------------------------------------------------
+RESOURCES Google Open Source wants to talk with you  New blog and social media
+accounts let you talk shop with Google open-source evangelists. Lift and shift
+a line-of-business application onto GCP  This first in a series tackles
+migrating an on-prem web app to GCP. Then read how and why Apigee Sense made
+the move . Stronger than strong: Cloud Spannerâs strong consistency defined
+Fewer bugs, fewer headaches, easier-to-maintain code. Learn how strong
+consistency fundamentally changes app performance. Protecting Google Cloud
+customers without impacting performance  Learn how Google reacts to the latest
+security threats and stay up to date with Compute Engine security bulletins .
+\-----------------------------------------------------------------------------
+CLOUD ONAIR Live webinars held weekly by Google Cloud experts. Visit Cloud
+OnAir  to see all upcoming sessions. Introduction to Google Cloud Spanner
+February 6, 2018, 9 AM PT How to Select the Right Storage Class for Your
+Workload  February 6, 2018, 9:45 AM PT
+\-----------------------------------------------------------------------------
+UPCOMING WEBINARS Using BigQuery to reveal how weather impacts search behavior
+February 13, 2018, 10:30 AM PT Hardware Root of Trust with Google Cloud IoT
+Core and Microchip February 6, 2018, 11 AM PT
+\-----------------------------------------------------------------------------
+UPCOMING EVENTS rstudio::conf 2018  February 2â3, 2018 Cloud OnBoard Santa
+Clara February 13, 2018
+\-----------------------------------------------------------------------------
+OVERHEARD Twitter @polleyg  An absolutely EPIC blog by Will Fuks
+(@dafiti_brasil) on how they built a recommender system on @googlecloud.
+Number of servers used? Zero.  Twitter @lak_gcp  Being able to connect to
+internal Google resources directly from a public WiFi is one of those things
+that I wasn't sure I could talk about. When people talked about VPNs and
+firewalls, I would simply nod my head...  Follow us on social media Add your
+voice to the conversation and get the latest news, views, and insights.
+Twitter  Blogger  GitHub  LinkedIn  G+  Facebook  YouTube
+\-----------------------------------------------------------------------------
+Not subscribed to our newsletter yet? Sign up  Feedback  Go to my console . Â©
+2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043 This email
+was sent to deepanshu961@gmail.com because you indicated that you'd like to
+receive offers from Google Cloud Platform. If you don't want to receive such
+emails in the future, please unsubscribe here:  You can also change your
+preferences on your account's profile page by logging in at
+console.cloud.google.com " b'
+
+Google Cloud Newsletter, January 2018. Cloud trends, resources, and platform
+news.
+
+|  You can also view this email in your browser.  
+---  
+  
+| ![Google
+Cloud](http://services.google.com/fh/files/emails/google_cloud_logo_d2x.png)  
+---  
+Newsletter  |  January 2018  
+2018 infrastructure outlook  
+$30 billion invested over the past three years. Five new regions. Three new
+undersea cables. Weâre just getting started.  
+|  SEE THE NETWORK  
+---  
+  
+|  |  |  |  |  | ![Urs HÃ¶lzle on the history, security, and future of
+Cloud](http://services.google.com/fh/files/emails/feature1.png)  
+---  
+Urs HÃ¶lzle on the history, security, and future of cloud  
+WATCH THE VIDEO
+![arrow](http://services.google.com/fh/files/emails/gcp_oct2017_newsletter_tilted_arrow.png)  
+|  |  | ![Sam Ramji: making GCP the most developer-friendly
+cloud](http://services.google.com/fh/files/emails/feature2.png)  
+---  
+Sam Ramji: making GCP the most developer-friendly cloud  
+LEARN HOW
+![arrow](http://services.google.com/fh/files/emails/gcp_oct2017_newsletter_tilted_arrow.png)  
+|  |  PLATFORM NEWS  
+---  
+|  
+---  
+  
+|  | Announcing Cloud AutoML: drag-and-drop machine learning  
+---  
+From weekend warriors to Disney marketers, AutoML Vision lets anyone use a
+drag-and-drop interface to upload images and train, manage, and deploy custom
+models directly on GCP.  
+  
+| Preemptible GPUs now 50% cheaper than on-demand equivalents  
+---  
+Attach NVIDIA K80 and P100 GPUs to preemptible VMs for $0.22 and $0.73 per GPU
+hour, respectively. Use GPUs at predictable, affordable prices for large-scale
+ML and other computational batch workloads.  
+  
+|  | Google Kubernetes Engine 1.9 is now available for early access  
+---  
+Greater support for stateful and stateless apps. Storage interoperability.
+Hardware accelerator support for ML workloads. Run your production-ready apps
+on GKE 1.9, and let us manage the infrastructure.  
+  
+| OpenCensus: new, simplified stats collection and tracing  
+---  
+OpenCensus, the vendor-neutral, open-source version of Googleâs Census
+library, automatically collects traces and metrics from your app, displays
+them locally, and sends them to analysis tools like Stackdriver and Cloud
+Bigtable.  
+  
+|  |  RESOURCES  
+---  
+|  
+---  
+Google Open Source wants to talk with you  
+New blog and social media accounts let you talk shop with Google open-source
+evangelists.  
+Lift and shift a line-of-business application onto GCP  
+This first in a series tackles migrating an on-prem web app to GCP. Then read
+how and why Apigee Sense made the move.  
+Stronger than strong: Cloud Spannerâs strong consistency defined  
+Fewer bugs, fewer headaches, easier-to-maintain code. Learn how strong
+consistency fundamentally changes app performance.  
+Protecting Google Cloud customers without impacting performance  
+Learn how Google reacts to the latest security threats and stay up to date
+with Compute Engine security bulletins.  
+|  |  CLOUD ONAIR  
+---  
+|  
+---  
+Live webinars held weekly by Google Cloud experts. Visit Cloud OnAir to see
+all upcoming sessions.  
+Introduction to Google Cloud Spanner  
+February 6, 2018, 9 AM PT  
+How to Select the Right Storage Class for Your Workload  
+February 6, 2018, 9:45 AM PT  
+|  |  UPCOMING WEBINARS  
+---  
+|  
+---  
+Using BigQuery to reveal how weather impacts search behavior  
+February 13, 2018, 10:30 AM PT  
+Hardware Root of Trust with Google Cloud IoT Core and Microchip  
+February 6, 2018, 11 AM PT  
+|  |  UPCOMING EVENTS  
+---  
+|  
+---  
+rstudio::conf 2018  
+February 2â3, 2018  
+Cloud OnBoard Santa Clara  
+February 13, 2018  
+|  |  OVERHEARD  
+---  
+|  
+---  
+|  |  | ![Twitter](http://services.google.com/fh/files/emails/twitter-
+icon-2x.png)@polleyg  
+An absolutely EPIC blog by Will Fuks (@dafiti_brasil) on how they built a
+recommender system on @googlecloud. Number of servers used? Zero.  
+---  
+| ![Twitter](http://services.google.com/fh/files/emails/twitter-
+icon-2x.png)@lak_gcp  
+Being able to connect to internal Google resources directly from a public WiFi
+is one of those things that I wasn't sure I could talk about. When people
+talked about VPNs and firewalls, I would simply nod my head...  
+---  
+| Follow us on social media  
+---  
+Add your voice to the conversation and get the latest news, views, and
+insights.  
+|  ![Twitter](http://services.google.com/fh/files/emails/twitter_d2x.png) |
+|  ![Blogger](http://services.google.com/fh/files/emails/blogger_d2x.png) |
+|  ![GitHub](http://services.google.com/fh/files/emails/github_d2x.png) |
+|  ![LinkedIn](http://services.google.com/fh/files/emails/linkedin_d2x.png) |
+|  ![G+](http://services.google.com/fh/files/emails/gplus_d2x.png) |     |
+![Facebook](http://services.google.com/fh/files/emails/facebook_d2x.png) |
+|
+![YouTube](http://services.google.com/fh/files/emails/youtube_circle_black_d2x.png)  
+---|---|---|---|---|---|---|---|---|---|---|---|---  
+|  |  | Not subscribed to our newsletter yet? Sign up  
+---  
+![Feedback](http://services.google.com/fh/files/emails/feedback_d2x.png) |
+Feedback  
+---|---  
+| Go to my console.  
+---  
+|  Â© 2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043  
+  
+This email was sent to deepanshu961@gmail.com because you indicated that you'd
+like to receive offers from Google Cloud Platform. If you don't want to
+receive such emails in the future, please unsubscribe here:
+
+https://www.google.com/appserve/mkt/optout/AFOm0uEPVqHZxToqVcVMXGOsozyRsvVprY-
+LdOhmVf8cMLzKpZafAtMnLxfU26Y-MYpBq0Qrkw?hl=en-GB
+
+You can also change your preferences on your account's profile page by logging
+in at console.cloud.google.com  
+---  
+  
+![](https://www.google.com/appserve/mkt/img/AFOm0uGLLHuCnlCbK5LqYoHWmeXy-K9EZl1_toEkaLP0DsBn.gif)
+' b" You can also view this email in your browser . Google Cloud Newsletter |
+January 2018 2018 infrastructure outlook $30 billion invested over the past
+three years. Five new regions. Three new undersea cables. Weâre just getting
+started. SEE THE NETWORK
+\-----------------------------------------------------------------------------
+Urs HÃ¶lzle on the history, security, and future of cloud WATCH THE VIDEO  Sam
+Ramji: making GCP the most developer-friendly cloud LEARN HOW
+\-----------------------------------------------------------------------------
+PLATFORM NEWS Announcing Cloud AutoML: drag-and-drop machine learning  From
+weekend warriors to Disney marketers, AutoML Vision  lets anyone use a drag-
+and-drop interface to upload images and train, manage, and deploy custom
+models directly on GCP. Preemptible GPUs now 50% cheaper than on-demand
+equivalents  Attach NVIDIA K80 and P100 GPUs to preemptible VMs for $0.22 and
+$0.73 per GPU hour, respectively. Use GPUs at predictable, affordable prices
+for large-scale ML and other computational batch workloads. Google Kubernetes
+Engine 1.9 is now available for early access  Greater support for stateful and
+stateless apps. Storage interoperability. Hardware accelerator support for ML
+workloads. Run your production-ready apps on GKE 1.9, and let us manage the
+infrastructure. OpenCensus: new, simplified stats collection and tracing
+OpenCensus, the vendor-neutral, open-source version of Googleâs Census
+library, automatically collects traces and metrics from your app, displays
+them locally, and sends them to analysis tools like Stackdriver and Cloud
+Bigtable.
+\-----------------------------------------------------------------------------
+RESOURCES Google Open Source wants to talk with you  New blog and social media
+accounts let you talk shop with Google open-source evangelists. Lift and shift
+a line-of-business application onto GCP  This first in a series tackles
+migrating an on-prem web app to GCP. Then read how and why Apigee Sense made
+the move . Stronger than strong: Cloud Spannerâs strong consistency defined
+Fewer bugs, fewer headaches, easier-to-maintain code. Learn how strong
+consistency fundamentally changes app performance. Protecting Google Cloud
+customers without impacting performance  Learn how Google reacts to the latest
+security threats and stay up to date with Compute Engine security bulletins .
+\-----------------------------------------------------------------------------
+CLOUD ONAIR Live webinars held weekly by Google Cloud experts. Visit Cloud
+OnAir  to see all upcoming sessions. Introduction to Google Cloud Spanner
+February 6, 2018, 9 AM PT How to Select the Right Storage Class for Your
+Workload  February 6, 2018, 9:45 AM PT
+\-----------------------------------------------------------------------------
+UPCOMING WEBINARS Using BigQuery to reveal how weather impacts search behavior
+February 13, 2018, 10:30 AM PT Hardware Root of Trust with Google Cloud IoT
+Core and Microchip February 6, 2018, 11 AM PT
+\-----------------------------------------------------------------------------
+UPCOMING EVENTS rstudio::conf 2018  February 2â3, 2018 Cloud OnBoard Santa
+Clara February 13, 2018
+\-----------------------------------------------------------------------------
+OVERHEARD Twitter @polleyg  An absolutely EPIC blog by Will Fuks
+(@dafiti_brasil) on how they built a recommender system on @googlecloud.
+Number of servers used? Zero.  Twitter @lak_gcp  Being able to connect to
+internal Google resources directly from a public WiFi is one of those things
+that I wasn't sure I could talk about. When people talked about VPNs and
+firewalls, I would simply nod my head...  Follow us on social media Add your
+voice to the conversation and get the latest news, views, and insights.
+Twitter  Blogger  GitHub  LinkedIn  G+  Facebook  YouTube
+\-----------------------------------------------------------------------------
+Not subscribed to our newsletter yet? Sign up  Feedback  Go to my console . Â©
+2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043 This email
+was sent to deepanshu961@gmail.com because you indicated that you'd like to
+receive offers from Google Cloud Platform. If you don't want to receive such
+emails in the future, please unsubscribe here:  You can also change your
+preferences on your account's profile page by logging in at
+console.cloud.google.com " b'
+
+Google Cloud Newsletter, January 2018. Cloud trends, resources, and platform
+news.
+
+|  You can also view this email in your browser.  
+---  
+  
+| ![Google
+Cloud](http://services.google.com/fh/files/emails/google_cloud_logo_d2x.png)  
+---  
+Newsletter  |  January 2018  
+2018 infrastructure outlook  
+$30 billion invested over the past three years. Five new regions. Three new
+undersea cables. Weâre just getting started.  
+|  SEE THE NETWORK  
+---  
+  
+|  |  |  |  |  | ![Urs HÃ¶lzle on the history, security, and future of
+Cloud](http://services.google.com/fh/files/emails/feature1.png)  
+---  
+Urs HÃ¶lzle on the history, security, and future of cloud  
+WATCH THE VIDEO
+![arrow](http://services.google.com/fh/files/emails/gcp_oct2017_newsletter_tilted_arrow.png)  
+|  |  | ![Sam Ramji: making GCP the most developer-friendly
+cloud](http://services.google.com/fh/files/emails/feature2.png)  
+---  
+Sam Ramji: making GCP the most developer-friendly cloud  
+LEARN HOW
+![arrow](http://services.google.com/fh/files/emails/gcp_oct2017_newsletter_tilted_arrow.png)  
+|  |  PLATFORM NEWS  
+---  
+|  
+---  
+  
+|  | Announcing Cloud AutoML: drag-and-drop machine learning  
+---  
+From weekend warriors to Disney marketers, AutoML Vision lets anyone use a
+drag-and-drop interface to upload images and train, manage, and deploy custom
+models directly on GCP.  
+  
+| Preemptible GPUs now 50% cheaper than on-demand equivalents  
+---  
+Attach NVIDIA K80 and P100 GPUs to preemptible VMs for $0.22 and $0.73 per GPU
+hour, respectively. Use GPUs at predictable, affordable prices for large-scale
+ML and other computational batch workloads.  
+  
+|  | Google Kubernetes Engine 1.9 is now available for early access  
+---  
+Greater support for stateful and stateless apps. Storage interoperability.
+Hardware accelerator support for ML workloads. Run your production-ready apps
+on GKE 1.9, and let us manage the infrastructure.  
+  
+| OpenCensus: new, simplified stats collection and tracing  
+---  
+OpenCensus, the vendor-neutral, open-source version of Googleâs Census
+library, automatically collects traces and metrics from your app, displays
+them locally, and sends them to analysis tools like Stackdriver and Cloud
+Bigtable.  
+  
+|  |  RESOURCES  
+---  
+|  
+---  
+Google Open Source wants to talk with you  
+New blog and social media accounts let you talk shop with Google open-source
+evangelists.  
+Lift and shift a line-of-business application onto GCP  
+This first in a series tackles migrating an on-prem web app to GCP. Then read
+how and why Apigee Sense made the move.  
+Stronger than strong: Cloud Spannerâs strong consistency defined  
+Fewer bugs, fewer headaches, easier-to-maintain code. Learn how strong
+consistency fundamentally changes app performance.  
+Protecting Google Cloud customers without impacting performance  
+Learn how Google reacts to the latest security threats and stay up to date
+with Compute Engine security bulletins.  
+|  |  CLOUD ONAIR  
+---  
+|  
+---  
+Live webinars held weekly by Google Cloud experts. Visit Cloud OnAir to see
+all upcoming sessions.  
+Introduction to Google Cloud Spanner  
+February 6, 2018, 9 AM PT  
+How to Select the Right Storage Class for Your Workload  
+February 6, 2018, 9:45 AM PT  
+|  |  UPCOMING WEBINARS  
+---  
+|  
+---  
+Using BigQuery to reveal how weather impacts search behavior  
+February 13, 2018, 10:30 AM PT  
+Hardware Root of Trust with Google Cloud IoT Core and Microchip  
+February 6, 2018, 11 AM PT  
+|  |  UPCOMING EVENTS  
+---  
+|  
+---  
+rstudio::conf 2018  
+February 2â3, 2018  
+Cloud OnBoard Santa Clara  
+February 13, 2018  
+|  |  OVERHEARD  
+---  
+|  
+---  
+|  |  | ![Twitter](http://services.google.com/fh/files/emails/twitter-
+icon-2x.png)@polleyg  
+An absolutely EPIC blog by Will Fuks (@dafiti_brasil) on how they built a
+recommender system on @googlecloud. Number of servers used? Zero.  
+---  
+| ![Twitter](http://services.google.com/fh/files/emails/twitter-
+icon-2x.png)@lak_gcp  
+Being able to connect to internal Google resources directly from a public WiFi
+is one of those things that I wasn't sure I could talk about. When people
+talked about VPNs and firewalls, I would simply nod my head...  
+---  
+| Follow us on social media  
+---  
+Add your voice to the conversation and get the latest news, views, and
+insights.  
+|  ![Twitter](http://services.google.com/fh/files/emails/twitter_d2x.png) |
+|  ![Blogger](http://services.google.com/fh/files/emails/blogger_d2x.png) |
+|  ![GitHub](http://services.google.com/fh/files/emails/github_d2x.png) |
+|  ![LinkedIn](http://services.google.com/fh/files/emails/linkedin_d2x.png) |
+|  ![G+](http://services.google.com/fh/files/emails/gplus_d2x.png) |     |
+![Facebook](http://services.google.com/fh/files/emails/facebook_d2x.png) |
+|
+![YouTube](http://services.google.com/fh/files/emails/youtube_circle_black_d2x.png)  
+---|---|---|---|---|---|---|---|---|---|---|---|---  
+|  |  | Not subscribed to our newsletter yet? Sign up  
+---  
+![Feedback](http://services.google.com/fh/files/emails/feedback_d2x.png) |
+Feedback  
+---|---  
+| Go to my console.  
+---  
+|  Â© 2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043  
+  
+This email was sent to deepanshu961@gmail.com because you indicated that you'd
+like to receive offers from Google Cloud Platform. If you don't want to
+receive such emails in the future, please unsubscribe here:
+
+https://www.google.com/appserve/mkt/optout/AFOm0uEPVqHZxToqVcVMXGOsozyRsvVprY-
+LdOhmVf8cMLzKpZafAtMnLxfU26Y-MYpBq0Qrkw?hl=en-GB
+
+You can also change your preferences on your account's profile page by logging
+in at console.cloud.google.com  
+---  
+  
+![](https://www.google.com/appserve/mkt/img/AFOm0uGLLHuCnlCbK5LqYoHWmeXy-K9EZl1_toEkaLP0DsBn.gif)
+'
+
+b" You can also view this email in your browser . Google Cloud Newsletter |
+January 2018 2018 infrastructure outlook $30 billion invested over the past
+three years. Five new regions. Three new undersea cables. Weâre just getting
+started. SEE THE NETWORK
+\-----------------------------------------------------------------------------
+Urs HÃ¶lzle on the history, security, and future of cloud WATCH THE VIDEO  Sam
+Ramji: making GCP the most developer-friendly cloud LEARN HOW
+\-----------------------------------------------------------------------------
+PLATFORM NEWS Announcing Cloud AutoML: drag-and-drop machine learning  From
+weekend warriors to Disney marketers, AutoML Vision  lets anyone use a drag-
+and-drop interface to upload images and train, manage, and deploy custom
+models directly on GCP. Preemptible GPUs now 50% cheaper than on-demand
+equivalents  Attach NVIDIA K80 and P100 GPUs to preemptible VMs for $0.22 and
+$0.73 per GPU hour, respectively. Use GPUs at predictable, affordable prices
+for large-scale ML and other computational batch workloads. Google Kubernetes
+Engine 1.9 is now available for early access  Greater support for stateful and
+stateless apps. Storage interoperability. Hardware accelerator support for ML
+workloads. Run your production-ready apps on GKE 1.9, and let us manage the
+infrastructure. OpenCensus: new, simplified stats collection and tracing
+OpenCensus, the vendor-neutral, open-source version of Googleâs Census
+library, automatically collects traces and metrics from your app, displays
+them locally, and sends them to analysis tools like Stackdriver and Cloud
+Bigtable.
+\-----------------------------------------------------------------------------
+RESOURCES Google Open Source wants to talk with you  New blog and social media
+accounts let you talk shop with Google open-source evangelists. Lift and shift
+a line-of-business application onto GCP  This first in a series tackles
+migrating an on-prem web app to GCP. Then read how and why Apigee Sense made
+the move . Stronger than strong: Cloud Spannerâs strong consistency defined
+Fewer bugs, fewer headaches, easier-to-maintain code. Learn how strong
+consistency fundamentally changes app performance. Protecting Google Cloud
+customers without impacting performance  Learn how Google reacts to the latest
+security threats and stay up to date with Compute Engine security bulletins .
+\-----------------------------------------------------------------------------
+CLOUD ONAIR Live webinars held weekly by Google Cloud experts. Visit Cloud
+OnAir  to see all upcoming sessions. Introduction to Google Cloud Spanner
+February 6, 2018, 9 AM PT How to Select the Right Storage Class for Your
+Workload  February 6, 2018, 9:45 AM PT
+\-----------------------------------------------------------------------------
+UPCOMING WEBINARS Using BigQuery to reveal how weather impacts search behavior
+February 13, 2018, 10:30 AM PT Hardware Root of Trust with Google Cloud IoT
+Core and Microchip February 6, 2018, 11 AM PT
+\-----------------------------------------------------------------------------
+UPCOMING EVENTS rstudio::conf 2018  February 2â3, 2018 Cloud OnBoard Santa
+Clara February 13, 2018
+\-----------------------------------------------------------------------------
+OVERHEARD Twitter @polleyg  An absolutely EPIC blog by Will Fuks
+(@dafiti_brasil) on how they built a recommender system on @googlecloud.
+Number of servers used? Zero.  Twitter @lak_gcp  Being able to connect to
+internal Google resources directly from a public WiFi is one of those things
+that I wasn't sure I could talk about. When people talked about VPNs and
+firewalls, I would simply nod my head...  Follow us on social media Add your
+voice to the conversation and get the latest news, views, and insights.
+Twitter  Blogger  GitHub  LinkedIn  G+  Facebook  YouTube
+\-----------------------------------------------------------------------------
+Not subscribed to our newsletter yet? Sign up  Feedback  Go to my console . Â©
+2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043 This email
+was sent to deepanshu961@gmail.com because you indicated that you'd like to
+receive offers from Google Cloud Platform. If you don't want to receive such
+emails in the future, please unsubscribe here:  You can also change your
+preferences on your account's profile page by logging in at
+console.cloud.google.com " b'
+
+Google Cloud Newsletter, January 2018. Cloud trends, resources, and platform
+news.
+
+|  You can also view this email in your browser.  
+---  
+  
+| ![Google
+Cloud](http://services.google.com/fh/files/emails/google_cloud_logo_d2x.png)  
+---  
+Newsletter  |  January 2018  
+2018 infrastructure outlook  
+$30 billion invested over the past three years. Five new regions. Three new
+undersea cables. Weâre just getting started.  
+|  SEE THE NETWORK  
+---  
+  
+|  |  |  |  |  | ![Urs HÃ¶lzle on the history, security, and future of
+Cloud](http://services.google.com/fh/files/emails/feature1.png)  
+---  
+Urs HÃ¶lzle on the history, security, and future of cloud  
+WATCH THE VIDEO
+![arrow](http://services.google.com/fh/files/emails/gcp_oct2017_newsletter_tilted_arrow.png)  
+|  |  | ![Sam Ramji: making GCP the most developer-friendly
+cloud](http://services.google.com/fh/files/emails/feature2.png)  
+---  
+Sam Ramji: making GCP the most developer-friendly cloud  
+LEARN HOW
+![arrow](http://services.google.com/fh/files/emails/gcp_oct2017_newsletter_tilted_arrow.png)  
+|  |  PLATFORM NEWS  
+---  
+|  
+---  
+  
+|  | Announcing Cloud AutoML: drag-and-drop machine learning  
+---  
+From weekend warriors to Disney marketers, AutoML Vision lets anyone use a
+drag-and-drop interface to upload images and train, manage, and deploy custom
+models directly on GCP.  
+  
+| Preemptible GPUs now 50% cheaper than on-demand equivalents  
+---  
+Attach NVIDIA K80 and P100 GPUs to preemptible VMs for $0.22 and $0.73 per GPU
+hour, respectively. Use GPUs at predictable, affordable prices for large-scale
+ML and other computational batch workloads.  
+  
+|  | Google Kubernetes Engine 1.9 is now available for early access  
+---  
+Greater support for stateful and stateless apps. Storage interoperability.
+Hardware accelerator support for ML workloads. Run your production-ready apps
+on GKE 1.9, and let us manage the infrastructure.  
+  
+| OpenCensus: new, simplified stats collection and tracing  
+---  
+OpenCensus, the vendor-neutral, open-source version of Googleâs Census
+library, automatically collects traces and metrics from your app, displays
+them locally, and sends them to analysis tools like Stackdriver and Cloud
+Bigtable.  
+  
+|  |  RESOURCES  
+---  
+|  
+---  
+Google Open Source wants to talk with you  
+New blog and social media accounts let you talk shop with Google open-source
+evangelists.  
+Lift and shift a line-of-business application onto GCP  
+This first in a series tackles migrating an on-prem web app to GCP. Then read
+how and why Apigee Sense made the move.  
+Stronger than strong: Cloud Spannerâs strong consistency defined  
+Fewer bugs, fewer headaches, easier-to-maintain code. Learn how strong
+consistency fundamentally changes app performance.  
+Protecting Google Cloud customers without impacting performance  
+Learn how Google reacts to the latest security threats and stay up to date
+with Compute Engine security bulletins.  
+|  |  CLOUD ONAIR  
+---  
+|  
+---  
+Live webinars held weekly by Google Cloud experts. Visit Cloud OnAir to see
+all upcoming sessions.  
+Introduction to Google Cloud Spanner  
+February 6, 2018, 9 AM PT  
+How to Select the Right Storage Class for Your Workload  
+February 6, 2018, 9:45 AM PT  
+|  |  UPCOMING WEBINARS  
+---  
+|  
+---  
+Using BigQuery to reveal how weather impacts search behavior  
+February 13, 2018, 10:30 AM PT  
+Hardware Root of Trust with Google Cloud IoT Core and Microchip  
+February 6, 2018, 11 AM PT  
+|  |  UPCOMING EVENTS  
+---  
+|  
+---  
+rstudio::conf 2018  
+February 2â3, 2018  
+Cloud OnBoard Santa Clara  
+February 13, 2018  
+|  |  OVERHEARD  
+---  
+|  
+---  
+|  |  | ![Twitter](http://services.google.com/fh/files/emails/twitter-
+icon-2x.png)@polleyg  
+An absolutely EPIC blog by Will Fuks (@dafiti_brasil) on how they built a
+recommender system on @googlecloud. Number of servers used? Zero.  
+---  
+| ![Twitter](http://services.google.com/fh/files/emails/twitter-
+icon-2x.png)@lak_gcp  
+Being able to connect to internal Google resources directly from a public WiFi
+is one of those things that I wasn't sure I could talk about. When people
+talked about VPNs and firewalls, I would simply nod my head...  
+---  
+| Follow us on social media  
+---  
+Add your voice to the conversation and get the latest news, views, and
+insights.  
+|  ![Twitter](http://services.google.com/fh/files/emails/twitter_d2x.png) |
+|  ![Blogger](http://services.google.com/fh/files/emails/blogger_d2x.png) |
+|  ![GitHub](http://services.google.com/fh/files/emails/github_d2x.png) |
+|  ![LinkedIn](http://services.google.com/fh/files/emails/linkedin_d2x.png) |
+|  ![G+](http://services.google.com/fh/files/emails/gplus_d2x.png) |     |
+![Facebook](http://services.google.com/fh/files/emails/facebook_d2x.png) |
+|
+![YouTube](http://services.google.com/fh/files/emails/youtube_circle_black_d2x.png)  
+---|---|---|---|---|---|---|---|---|---|---|---|---  
+|  |  | Not subscribed to our newsletter yet? Sign up  
+---  
+![Feedback](http://services.google.com/fh/files/emails/feedback_d2x.png) |
+Feedback  
+---|---  
+| Go to my console.  
+---  
+|  Â© 2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043  
+  
+This email was sent to deepanshu961@gmail.com because you indicated that you'd
+like to receive offers from Google Cloud Platform. If you don't want to
+receive such emails in the future, please unsubscribe here:
+
+https://www.google.com/appserve/mkt/optout/AFOm0uEPVqHZxToqVcVMXGOsozyRsvVprY-
+LdOhmVf8cMLzKpZafAtMnLxfU26Y-MYpBq0Qrkw?hl=en-GB
+
+You can also change your preferences on your account's profile page by logging
+in at console.cloud.google.com  
+---  
+  
+![](https://www.google.com/appserve/mkt/img/AFOm0uGLLHuCnlCbK5LqYoHWmeXy-K9EZl1_toEkaLP0DsBn.gif)
+' b" You can also view this email in your browser . Google Cloud Newsletter |
+January 2018 2018 infrastructure outlook $30 billion invested over the past
+three years. Five new regions. Three new undersea cables. Weâre just getting
+started. SEE THE NETWORK
+\-----------------------------------------------------------------------------
+Urs HÃ¶lzle on the history, security, and future of cloud WATCH THE VIDEO  Sam
+Ramji: making GCP the most developer-friendly cloud LEARN HOW
+\-----------------------------------------------------------------------------
+PLATFORM NEWS Announcing Cloud AutoML: drag-and-drop machine learning  From
+weekend warriors to Disney marketers, AutoML Vision  lets anyone use a drag-
+and-drop interface to upload images and train, manage, and deploy custom
+models directly on GCP. Preemptible GPUs now 50% cheaper than on-demand
+equivalents  Attach NVIDIA K80 and P100 GPUs to preemptible VMs for $0.22 and
+$0.73 per GPU hour, respectively. Use GPUs at predictable, affordable prices
+for large-scale ML and other computational batch workloads. Google Kubernetes
+Engine 1.9 is now available for early access  Greater support for stateful and
+stateless apps. Storage interoperability. Hardware accelerator support for ML
+workloads. Run your production-ready apps on GKE 1.9, and let us manage the
+infrastructure. OpenCensus: new, simplified stats collection and tracing
+OpenCensus, the vendor-neutral, open-source version of Googleâs Census
+library, automatically collects traces and metrics from your app, displays
+them locally, and sends them to analysis tools like Stackdriver and Cloud
+Bigtable.
+\-----------------------------------------------------------------------------
+RESOURCES Google Open Source wants to talk with you  New blog and social media
+accounts let you talk shop with Google open-source evangelists. Lift and shift
+a line-of-business application onto GCP  This first in a series tackles
+migrating an on-prem web app to GCP. Then read how and why Apigee Sense made
+the move . Stronger than strong: Cloud Spannerâs strong consistency defined
+Fewer bugs, fewer headaches, easier-to-maintain code. Learn how strong
+consistency fundamentally changes app performance. Protecting Google Cloud
+customers without impacting performance  Learn how Google reacts to the latest
+security threats and stay up to date with Compute Engine security bulletins .
+\-----------------------------------------------------------------------------
+CLOUD ONAIR Live webinars held weekly by Google Cloud experts. Visit Cloud
+OnAir  to see all upcoming sessions. Introduction to Google Cloud Spanner
+February 6, 2018, 9 AM PT How to Select the Right Storage Class for Your
+Workload  February 6, 2018, 9:45 AM PT
+\-----------------------------------------------------------------------------
+UPCOMING WEBINARS Using BigQuery to reveal how weather impacts search behavior
+February 13, 2018, 10:30 AM PT Hardware Root of Trust with Google Cloud IoT
+Core and Microchip February 6, 2018, 11 AM PT
+\-----------------------------------------------------------------------------
+UPCOMING EVENTS rstudio::conf 2018  February 2â3, 2018 Cloud OnBoard Santa
+Clara February 13, 2018
+\-----------------------------------------------------------------------------
+OVERHEARD Twitter @polleyg  An absolutely EPIC blog by Will Fuks
+(@dafiti_brasil) on how they built a recommender system on @googlecloud.
+Number of servers used? Zero.  Twitter @lak_gcp  Being able to connect to
+internal Google resources directly from a public WiFi is one of those things
+that I wasn't sure I could talk about. When people talked about VPNs and
+firewalls, I would simply nod my head...  Follow us on social media Add your
+voice to the conversation and get the latest news, views, and insights.
+Twitter  Blogger  GitHub  LinkedIn  G+  Facebook  YouTube
+\-----------------------------------------------------------------------------
+Not subscribed to our newsletter yet? Sign up  Feedback  Go to my console . Â©
+2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043 This email
+was sent to deepanshu961@gmail.com because you indicated that you'd like to
+receive offers from Google Cloud Platform. If you don't want to receive such
+emails in the future, please unsubscribe here:  You can also change your
+preferences on your account's profile page by logging in at
+console.cloud.google.com " b'
+
+Google Cloud Newsletter, January 2018. Cloud trends, resources, and platform
+news.
+
+|  You can also view this email in your browser.  
+---  
+  
+| ![Google
+Cloud](http://services.google.com/fh/files/emails/google_cloud_logo_d2x.png)  
+---  
+Newsletter  |  January 2018  
+2018 infrastructure outlook  
+$30 billion invested over the past three years. Five new regions. Three new
+undersea cables. Weâre just getting started.  
+|  SEE THE NETWORK  
+---  
+  
+|  |  |  |  |  | ![Urs HÃ¶lzle on the history, security, and future of
+Cloud](http://services.google.com/fh/files/emails/feature1.png)  
+---  
+Urs HÃ¶lzle on the history, security, and future of cloud  
+WATCH THE VIDEO
+![arrow](http://services.google.com/fh/files/emails/gcp_oct2017_newsletter_tilted_arrow.png)  
+|  |  | ![Sam Ramji: making GCP the most developer-friendly
+cloud](http://services.google.com/fh/files/emails/feature2.png)  
+---  
+Sam Ramji: making GCP the most developer-friendly cloud  
+LEARN HOW
+![arrow](http://services.google.com/fh/files/emails/gcp_oct2017_newsletter_tilted_arrow.png)  
+|  |  PLATFORM NEWS  
+---  
+|  
+---  
+  
+|  | Announcing Cloud AutoML: drag-and-drop machine learning  
+---  
+From weekend warriors to Disney marketers, AutoML Vision lets anyone use a
+drag-and-drop interface to upload images and train, manage, and deploy custom
+models directly on GCP.  
+  
+| Preemptible GPUs now 50% cheaper than on-demand equivalents  
+---  
+Attach NVIDIA K80 and P100 GPUs to preemptible VMs for $0.22 and $0.73 per GPU
+hour, respectively. Use GPUs at predictable, affordable prices for large-scale
+ML and other computational batch workloads.  
+  
+|  | Google Kubernetes Engine 1.9 is now available for early access  
+---  
+Greater support for stateful and stateless apps. Storage interoperability.
+Hardware accelerator support for ML workloads. Run your production-ready apps
+on GKE 1.9, and let us manage the infrastructure.  
+  
+| OpenCensus: new, simplified stats collection and tracing  
+---  
+OpenCensus, the vendor-neutral, open-source version of Googleâs Census
+library, automatically collects traces and metrics from your app, displays
+them locally, and sends them to analysis tools like Stackdriver and Cloud
+Bigtable.  
+  
+|  |  RESOURCES  
+---  
+|  
+---  
+Google Open Source wants to talk with you  
+New blog and social media accounts let you talk shop with Google open-source
+evangelists.  
+Lift and shift a line-of-business application onto GCP  
+This first in a series tackles migrating an on-prem web app to GCP. Then read
+how and why Apigee Sense made the move.  
+Stronger than strong: Cloud Spannerâs strong consistency defined  
+Fewer bugs, fewer headaches, easier-to-maintain code. Learn how strong
+consistency fundamentally changes app performance.  
+Protecting Google Cloud customers without impacting performance  
+Learn how Google reacts to the latest security threats and stay up to date
+with Compute Engine security bulletins.  
+|  |  CLOUD ONAIR  
+---  
+|  
+---  
+Live webinars held weekly by Google Cloud experts. Visit Cloud OnAir to see
+all upcoming sessions.  
+Introduction to Google Cloud Spanner  
+February 6, 2018, 9 AM PT  
+How to Select the Right Storage Class for Your Workload  
+February 6, 2018, 9:45 AM PT  
+|  |  UPCOMING WEBINARS  
+---  
+|  
+---  
+Using BigQuery to reveal how weather impacts search behavior  
+February 13, 2018, 10:30 AM PT  
+Hardware Root of Trust with Google Cloud IoT Core and Microchip  
+February 6, 2018, 11 AM PT  
+|  |  UPCOMING EVENTS  
+---  
+|  
+---  
+rstudio::conf 2018  
+February 2â3, 2018  
+Cloud OnBoard Santa Clara  
+February 13, 2018  
+|  |  OVERHEARD  
+---  
+|  
+---  
+|  |  | ![Twitter](http://services.google.com/fh/files/emails/twitter-
+icon-2x.png)@polleyg  
+An absolutely EPIC blog by Will Fuks (@dafiti_brasil) on how they built a
+recommender system on @googlecloud. Number of servers used? Zero.  
+---  
+| ![Twitter](http://services.google.com/fh/files/emails/twitter-
+icon-2x.png)@lak_gcp  
+Being able to connect to internal Google resources directly from a public WiFi
+is one of those things that I wasn't sure I could talk about. When people
+talked about VPNs and firewalls, I would simply nod my head...  
+---  
+| Follow us on social media  
+---  
+Add your voice to the conversation and get the latest news, views, and
+insights.  
+|  ![Twitter](http://services.google.com/fh/files/emails/twitter_d2x.png) |
+|  ![Blogger](http://services.google.com/fh/files/emails/blogger_d2x.png) |
+|  ![GitHub](http://services.google.com/fh/files/emails/github_d2x.png) |
+|  ![LinkedIn](http://services.google.com/fh/files/emails/linkedin_d2x.png) |
+|  ![G+](http://services.google.com/fh/files/emails/gplus_d2x.png) |     |
+![Facebook](http://services.google.com/fh/files/emails/facebook_d2x.png) |
+|
+![YouTube](http://services.google.com/fh/files/emails/youtube_circle_black_d2x.png)  
+---|---|---|---|---|---|---|---|---|---|---|---|---  
+|  |  | Not subscribed to our newsletter yet? Sign up  
+---  
+![Feedback](http://services.google.com/fh/files/emails/feedback_d2x.png) |
+Feedback  
+---|---  
+| Go to my console.  
+---  
+|  Â© 2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043  
+  
+This email was sent to deepanshu961@gmail.com because you indicated that you'd
+like to receive offers from Google Cloud Platform. If you don't want to
+receive such emails in the future, please unsubscribe here:
+
+https://www.google.com/appserve/mkt/optout/AFOm0uEPVqHZxToqVcVMXGOsozyRsvVprY-
+LdOhmVf8cMLzKpZafAtMnLxfU26Y-MYpBq0Qrkw?hl=en-GB
+
+You can also change your preferences on your account's profile page by logging
+in at console.cloud.google.com  
+---  
+  
+![](https://www.google.com/appserve/mkt/img/AFOm0uGLLHuCnlCbK5LqYoHWmeXy-K9EZl1_toEkaLP0DsBn.gif)
+'
+
+b" You can also view this email in your browser . Google Cloud Newsletter |
+January 2018 2018 infrastructure outlook $30 billion invested over the past
+three years. Five new regions. Three new undersea cables. Weâre just getting
+started. SEE THE NETWORK
+\-----------------------------------------------------------------------------
+Urs HÃ¶lzle on the history, security, and future of cloud WATCH THE VIDEO  Sam
+Ramji: making GCP the most developer-friendly cloud LEARN HOW
+\-----------------------------------------------------------------------------
+PLATFORM NEWS Announcing Cloud AutoML: drag-and-drop machine learning  From
+weekend warriors to Disney marketers, AutoML Vision  lets anyone use a drag-
+and-drop interface to upload images and train, manage, and deploy custom
+models directly on GCP. Preemptible GPUs now 50% cheaper than on-demand
+equivalents  Attach NVIDIA K80 and P100 GPUs to preemptible VMs for $0.22 and
+$0.73 per GPU hour, respectively. Use GPUs at predictable, affordable prices
+for large-scale ML and other computational batch workloads. Google Kubernetes
+Engine 1.9 is now available for early access  Greater support for stateful and
+stateless apps. Storage interoperability. Hardware accelerator support for ML
+workloads. Run your production-ready apps on GKE 1.9, and let us manage the
+infrastructure. OpenCensus: new, simplified stats collection and tracing
+OpenCensus, the vendor-neutral, open-source version of Googleâs Census
+library, automatically collects traces and metrics from your app, displays
+them locally, and sends them to analysis tools like Stackdriver and Cloud
+Bigtable.
+\-----------------------------------------------------------------------------
+RESOURCES Google Open Source wants to talk with you  New blog and social media
+accounts let you talk shop with Google open-source evangelists. Lift and shift
+a line-of-business application onto GCP  This first in a series tackles
+migrating an on-prem web app to GCP. Then read how and why Apigee Sense made
+the move . Stronger than strong: Cloud Spannerâs strong consistency defined
+Fewer bugs, fewer headaches, easier-to-maintain code. Learn how strong
+consistency fundamentally changes app performance. Protecting Google Cloud
+customers without impacting performance  Learn how Google reacts to the latest
+security threats and stay up to date with Compute Engine security bulletins .
+\-----------------------------------------------------------------------------
+CLOUD ONAIR Live webinars held weekly by Google Cloud experts. Visit Cloud
+OnAir  to see all upcoming sessions. Introduction to Google Cloud Spanner
+February 6, 2018, 9 AM PT How to Select the Right Storage Class for Your
+Workload  February 6, 2018, 9:45 AM PT
+\-----------------------------------------------------------------------------
+UPCOMING WEBINARS Using BigQuery to reveal how weather impacts search behavior
+February 13, 2018, 10:30 AM PT Hardware Root of Trust with Google Cloud IoT
+Core and Microchip February 6, 2018, 11 AM PT
+\-----------------------------------------------------------------------------
+UPCOMING EVENTS rstudio::conf 2018  February 2â3, 2018 Cloud OnBoard Santa
+Clara February 13, 2018
+\-----------------------------------------------------------------------------
+OVERHEARD Twitter @polleyg  An absolutely EPIC blog by Will Fuks
+(@dafiti_brasil) on how they built a recommender system on @googlecloud.
+Number of servers used? Zero.  Twitter @lak_gcp  Being able to connect to
+internal Google resources directly from a public WiFi is one of those things
+that I wasn't sure I could talk about. When people talked about VPNs and
+firewalls, I would simply nod my head...  Follow us on social media Add your
+voice to the conversation and get the latest news, views, and insights.
+Twitter  Blogger  GitHub  LinkedIn  G+  Facebook  YouTube
+\-----------------------------------------------------------------------------
+Not subscribed to our newsletter yet? Sign up  Feedback  Go to my console . Â©
+2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043 This email
+was sent to deepanshu961@gmail.com because you indicated that you'd like to
+receive offers from Google Cloud Platform. If you don't want to receive such
+emails in the future, please unsubscribe here:  You can also change your
+preferences on your account's profile page by logging in at
+console.cloud.google.com " b'
+
+Google Cloud Newsletter, January 2018. Cloud trends, resources, and platform
+news.
+
+|  You can also view this email in your browser.  
+---  
+  
+| ![Google
+Cloud](http://services.google.com/fh/files/emails/google_cloud_logo_d2x.png)  
+---  
+Newsletter  |  January 2018  
+2018 infrastructure outlook  
+$30 billion invested over the past three years. Five new regions. Three new
+undersea cables. Weâre just getting started.  
+|  SEE THE NETWORK  
+---  
+  
+|  |  |  |  |  | ![Urs HÃ¶lzle on the history, security, and future of
+Cloud](http://services.google.com/fh/files/emails/feature1.png)  
+---  
+Urs HÃ¶lzle on the history, security, and future of cloud  
+WATCH THE VIDEO
+![arrow](http://services.google.com/fh/files/emails/gcp_oct2017_newsletter_tilted_arrow.png)  
+|  |  | ![Sam Ramji: making GCP the most developer-friendly
+cloud](http://services.google.com/fh/files/emails/feature2.png)  
+---  
+Sam Ramji: making GCP the most developer-friendly cloud  
+LEARN HOW
+![arrow](http://services.google.com/fh/files/emails/gcp_oct2017_newsletter_tilted_arrow.png)  
+|  |  PLATFORM NEWS  
+---  
+|  
+---  
+  
+|  | Announcing Cloud AutoML: drag-and-drop machine learning  
+---  
+From weekend warriors to Disney marketers, AutoML Vision lets anyone use a
+drag-and-drop interface to upload images and train, manage, and deploy custom
+models directly on GCP.  
+  
+| Preemptible GPUs now 50% cheaper than on-demand equivalents  
+---  
+Attach NVIDIA K80 and P100 GPUs to preemptible VMs for $0.22 and $0.73 per GPU
+hour, respectively. Use GPUs at predictable, affordable prices for large-scale
+ML and other computational batch workloads.  
+  
+|  | Google Kubernetes Engine 1.9 is now available for early access  
+---  
+Greater support for stateful and stateless apps. Storage interoperability.
+Hardware accelerator support for ML workloads. Run your production-ready apps
+on GKE 1.9, and let us manage the infrastructure.  
+  
+| OpenCensus: new, simplified stats collection and tracing  
+---  
+OpenCensus, the vendor-neutral, open-source version of Googleâs Census
+library, automatically collects traces and metrics from your app, displays
+them locally, and sends them to analysis tools like Stackdriver and Cloud
+Bigtable.  
+  
+|  |  RESOURCES  
+---  
+|  
+---  
+Google Open Source wants to talk with you  
+New blog and social media accounts let you talk shop with Google open-source
+evangelists.  
+Lift and shift a line-of-business application onto GCP  
+This first in a series tackles migrating an on-prem web app to GCP. Then read
+how and why Apigee Sense made the move.  
+Stronger than strong: Cloud Spannerâs strong consistency defined  
+Fewer bugs, fewer headaches, easier-to-maintain code. Learn how strong
+consistency fundamentally changes app performance.  
+Protecting Google Cloud customers without impacting performance  
+Learn how Google reacts to the latest security threats and stay up to date
+with Compute Engine security bulletins.  
+|  |  CLOUD ONAIR  
+---  
+|  
+---  
+Live webinars held weekly by Google Cloud experts. Visit Cloud OnAir to see
+all upcoming sessions.  
+Introduction to Google Cloud Spanner  
+February 6, 2018, 9 AM PT  
+How to Select the Right Storage Class for Your Workload  
+February 6, 2018, 9:45 AM PT  
+|  |  UPCOMING WEBINARS  
+---  
+|  
+---  
+Using BigQuery to reveal how weather impacts search behavior  
+February 13, 2018, 10:30 AM PT  
+Hardware Root of Trust with Google Cloud IoT Core and Microchip  
+February 6, 2018, 11 AM PT  
+|  |  UPCOMING EVENTS  
+---  
+|  
+---  
+rstudio::conf 2018  
+February 2â3, 2018  
+Cloud OnBoard Santa Clara  
+February 13, 2018  
+|  |  OVERHEARD  
+---  
+|  
+---  
+|  |  | ![Twitter](http://services.google.com/fh/files/emails/twitter-
+icon-2x.png)@polleyg  
+An absolutely EPIC blog by Will Fuks (@dafiti_brasil) on how they built a
+recommender system on @googlecloud. Number of servers used? Zero.  
+---  
+| ![Twitter](http://services.google.com/fh/files/emails/twitter-
+icon-2x.png)@lak_gcp  
+Being able to connect to internal Google resources directly from a public WiFi
+is one of those things that I wasn't sure I could talk about. When people
+talked about VPNs and firewalls, I would simply nod my head...  
+---  
+| Follow us on social media  
+---  
+Add your voice to the conversation and get the latest news, views, and
+insights.  
+|  ![Twitter](http://services.google.com/fh/files/emails/twitter_d2x.png) |
+|  ![Blogger](http://services.google.com/fh/files/emails/blogger_d2x.png) |
+|  ![GitHub](http://services.google.com/fh/files/emails/github_d2x.png) |
+|  ![LinkedIn](http://services.google.com/fh/files/emails/linkedin_d2x.png) |
+|  ![G+](http://services.google.com/fh/files/emails/gplus_d2x.png) |     |
+![Facebook](http://services.google.com/fh/files/emails/facebook_d2x.png) |
+|
+![YouTube](http://services.google.com/fh/files/emails/youtube_circle_black_d2x.png)  
+---|---|---|---|---|---|---|---|---|---|---|---|---  
+|  |  | Not subscribed to our newsletter yet? Sign up  
+---  
+![Feedback](http://services.google.com/fh/files/emails/feedback_d2x.png) |
+Feedback  
+---|---  
+| Go to my console.  
+---  
+|  Â© 2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043  
+  
+This email was sent to deepanshu961@gmail.com because you indicated that you'd
+like to receive offers from Google Cloud Platform. If you don't want to
+receive such emails in the future, please unsubscribe here:
+
+https://www.google.com/appserve/mkt/optout/AFOm0uEPVqHZxToqVcVMXGOsozyRsvVprY-
+LdOhmVf8cMLzKpZafAtMnLxfU26Y-MYpBq0Qrkw?hl=en-GB
+
+You can also change your preferences on your account's profile page by logging
+in at console.cloud.google.com  
+---  
+  
+![](https://www.google.com/appserve/mkt/img/AFOm0uGLLHuCnlCbK5LqYoHWmeXy-K9EZl1_toEkaLP0DsBn.gif)
+' b" You can also view this email in your browser . Google Cloud Newsletter |
+January 2018 2018 infrastructure outlook $30 billion invested over the past
+three years. Five new regions. Three new undersea cables. Weâre just getting
+started. SEE THE NETWORK
+\-----------------------------------------------------------------------------
+Urs HÃ¶lzle on the history, security, and future of cloud WATCH THE VIDEO  Sam
+Ramji: making GCP the most developer-friendly cloud LEARN HOW
+\-----------------------------------------------------------------------------
+PLATFORM NEWS Announcing Cloud AutoML: drag-and-drop machine learning  From
+weekend warriors to Disney marketers, AutoML Vision  lets anyone use a drag-
+and-drop interface to upload images and train, manage, and deploy custom
+models directly on GCP. Preemptible GPUs now 50% cheaper than on-demand
+equivalents  Attach NVIDIA K80 and P100 GPUs to preemptible VMs for $0.22 and
+$0.73 per GPU hour, respectively. Use GPUs at predictable, affordable prices
+for large-scale ML and other computational batch workloads. Google Kubernetes
+Engine 1.9 is now available for early access  Greater support for stateful and
+stateless apps. Storage interoperability. Hardware accelerator support for ML
+workloads. Run your production-ready apps on GKE 1.9, and let us manage the
+infrastructure. OpenCensus: new, simplified stats collection and tracing
+OpenCensus, the vendor-neutral, open-source version of Googleâs Census
+library, automatically collects traces and metrics from your app, displays
+them locally, and sends them to analysis tools like Stackdriver and Cloud
+Bigtable.
+\-----------------------------------------------------------------------------
+RESOURCES Google Open Source wants to talk with you  New blog and social media
+accounts let you talk shop with Google open-source evangelists. Lift and shift
+a line-of-business application onto GCP  This first in a series tackles
+migrating an on-prem web app to GCP. Then read how and why Apigee Sense made
+the move . Stronger than strong: Cloud Spannerâs strong consistency defined
+Fewer bugs, fewer headaches, easier-to-maintain code. Learn how strong
+consistency fundamentally changes app performance. Protecting Google Cloud
+customers without impacting performance  Learn how Google reacts to the latest
+security threats and stay up to date with Compute Engine security bulletins .
+\-----------------------------------------------------------------------------
+CLOUD ONAIR Live webinars held weekly by Google Cloud experts. Visit Cloud
+OnAir  to see all upcoming sessions. Introduction to Google Cloud Spanner
+February 6, 2018, 9 AM PT How to Select the Right Storage Class for Your
+Workload  February 6, 2018, 9:45 AM PT
+\-----------------------------------------------------------------------------
+UPCOMING WEBINARS Using BigQuery to reveal how weather impacts search behavior
+February 13, 2018, 10:30 AM PT Hardware Root of Trust with Google Cloud IoT
+Core and Microchip February 6, 2018, 11 AM PT
+\-----------------------------------------------------------------------------
+UPCOMING EVENTS rstudio::conf 2018  February 2â3, 2018 Cloud OnBoard Santa
+Clara February 13, 2018
+\-----------------------------------------------------------------------------
+OVERHEARD Twitter @polleyg  An absolutely EPIC blog by Will Fuks
+(@dafiti_brasil) on how they built a recommender system on @googlecloud.
+Number of servers used? Zero.  Twitter @lak_gcp  Being able to connect to
+internal Google resources directly from a public WiFi is one of those things
+that I wasn't sure I could talk about. When people talked about VPNs and
+firewalls, I would simply nod my head...  Follow us on social media Add your
+voice to the conversation and get the latest news, views, and insights.
+Twitter  Blogger  GitHub  LinkedIn  G+  Facebook  YouTube
+\-----------------------------------------------------------------------------
+Not subscribed to our newsletter yet? Sign up  Feedback  Go to my console . Â©
+2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043 This email
+was sent to deepanshu961@gmail.com because you indicated that you'd like to
+receive offers from Google Cloud Platform. If you don't want to receive such
+emails in the future, please unsubscribe here:  You can also change your
+preferences on your account's profile page by logging in at
+console.cloud.google.com " b'
+
+Google Cloud Newsletter, January 2018. Cloud trends, resources, and platform
+news.
+
+|  You can also view this email in your browser.  
+---  
+  
+| ![Google
+Cloud](http://services.google.com/fh/files/emails/google_cloud_logo_d2x.png)  
+---  
+Newsletter  |  January 2018  
+2018 infrastructure outlook  
+$30 billion invested over the past three years. Five new regions. Three new
+undersea cables. Weâre just getting started.  
+|  SEE THE NETWORK  
+---  
+  
+|  |  |  |  |  | ![Urs HÃ¶lzle on the history, security, and future of
+Cloud](http://services.google.com/fh/files/emails/feature1.png)  
+---  
+Urs HÃ¶lzle on the history, security, and future of cloud  
+WATCH THE VIDEO
+![arrow](http://services.google.com/fh/files/emails/gcp_oct2017_newsletter_tilted_arrow.png)  
+|  |  | ![Sam Ramji: making GCP the most developer-friendly
+cloud](http://services.google.com/fh/files/emails/feature2.png)  
+---  
+Sam Ramji: making GCP the most developer-friendly cloud  
+LEARN HOW
+![arrow](http://services.google.com/fh/files/emails/gcp_oct2017_newsletter_tilted_arrow.png)  
+|  |  PLATFORM NEWS  
+---  
+|  
+---  
+  
+|  | Announcing Cloud AutoML: drag-and-drop machine learning  
+---  
+From weekend warriors to Disney marketers, AutoML Vision lets anyone use a
+drag-and-drop interface to upload images and train, manage, and deploy custom
+models directly on GCP.  
+  
+| Preemptible GPUs now 50% cheaper than on-demand equivalents  
+---  
+Attach NVIDIA K80 and P100 GPUs to preemptible VMs for $0.22 and $0.73 per GPU
+hour, respectively. Use GPUs at predictable, affordable prices for large-scale
+ML and other computational batch workloads.  
+  
+|  | Google Kubernetes Engine 1.9 is now available for early access  
+---  
+Greater support for stateful and stateless apps. Storage interoperability.
+Hardware accelerator support for ML workloads. Run your production-ready apps
+on GKE 1.9, and let us manage the infrastructure.  
+  
+| OpenCensus: new, simplified stats collection and tracing  
+---  
+OpenCensus, the vendor-neutral, open-source version of Googleâs Census
+library, automatically collects traces and metrics from your app, displays
+them locally, and sends them to analysis tools like Stackdriver and Cloud
+Bigtable.  
+  
+|  |  RESOURCES  
+---  
+|  
+---  
+Google Open Source wants to talk with you  
+New blog and social media accounts let you talk shop with Google open-source
+evangelists.  
+Lift and shift a line-of-business application onto GCP  
+This first in a series tackles migrating an on-prem web app to GCP. Then read
+how and why Apigee Sense made the move.  
+Stronger than strong: Cloud Spannerâs strong consistency defined  
+Fewer bugs, fewer headaches, easier-to-maintain code. Learn how strong
+consistency fundamentally changes app performance.  
+Protecting Google Cloud customers without impacting performance  
+Learn how Google reacts to the latest security threats and stay up to date
+with Compute Engine security bulletins.  
+|  |  CLOUD ONAIR  
+---  
+|  
+---  
+Live webinars held weekly by Google Cloud experts. Visit Cloud OnAir to see
+all upcoming sessions.  
+Introduction to Google Cloud Spanner  
+February 6, 2018, 9 AM PT  
+How to Select the Right Storage Class for Your Workload  
+February 6, 2018, 9:45 AM PT  
+|  |  UPCOMING WEBINARS  
+---  
+|  
+---  
+Using BigQuery to reveal how weather impacts search behavior  
+February 13, 2018, 10:30 AM PT  
+Hardware Root of Trust with Google Cloud IoT Core and Microchip  
+February 6, 2018, 11 AM PT  
+|  |  UPCOMING EVENTS  
+---  
+|  
+---  
+rstudio::conf 2018  
+February 2â3, 2018  
+Cloud OnBoard Santa Clara  
+February 13, 2018  
+|  |  OVERHEARD  
+---  
+|  
+---  
+|  |  | ![Twitter](http://services.google.com/fh/files/emails/twitter-
+icon-2x.png)@polleyg  
+An absolutely EPIC blog by Will Fuks (@dafiti_brasil) on how they built a
+recommender system on @googlecloud. Number of servers used? Zero.  
+---  
+| ![Twitter](http://services.google.com/fh/files/emails/twitter-
+icon-2x.png)@lak_gcp  
+Being able to connect to internal Google resources directly from a public WiFi
+is one of those things that I wasn't sure I could talk about. When people
+talked about VPNs and firewalls, I would simply nod my head...  
+---  
+| Follow us on social media  
+---  
+Add your voice to the conversation and get the latest news, views, and
+insights.  
+|  ![Twitter](http://services.google.com/fh/files/emails/twitter_d2x.png) |
+|  ![Blogger](http://services.google.com/fh/files/emails/blogger_d2x.png) |
+|  ![GitHub](http://services.google.com/fh/files/emails/github_d2x.png) |
+|  ![LinkedIn](http://services.google.com/fh/files/emails/linkedin_d2x.png) |
+|  ![G+](http://services.google.com/fh/files/emails/gplus_d2x.png) |     |
+![Facebook](http://services.google.com/fh/files/emails/facebook_d2x.png) |
+|
+![YouTube](http://services.google.com/fh/files/emails/youtube_circle_black_d2x.png)  
+---|---|---|---|---|---|---|---|---|---|---|---|---  
+|  |  | Not subscribed to our newsletter yet? Sign up  
+---  
+![Feedback](http://services.google.com/fh/files/emails/feedback_d2x.png) |
+Feedback  
+---|---  
+| Go to my console.  
+---  
+|  Â© 2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043  
+  
+This email was sent to deepanshu961@gmail.com because you indicated that you'd
+like to receive offers from Google Cloud Platform. If you don't want to
+receive such emails in the future, please unsubscribe here:
+
+https://www.google.com/appserve/mkt/optout/AFOm0uEPVqHZxToqVcVMXGOsozyRsvVprY-
+LdOhmVf8cMLzKpZafAtMnLxfU26Y-MYpBq0Qrkw?hl=en-GB
+
+You can also change your preferences on your account's profile page by logging
+in at console.cloud.google.com  
+---  
+  
+![](https://www.google.com/appserve/mkt/img/AFOm0uGLLHuCnlCbK5LqYoHWmeXy-K9EZl1_toEkaLP0DsBn.gif)
+'
+
+b" You can also view this email in your browser . Google Cloud Newsletter |
+January 2018 2018 infrastructure outlook $30 billion invested over the past
+three years. Five new regions. Three new undersea cables. Weâre just getting
+started. SEE THE NETWORK
+\-----------------------------------------------------------------------------
+Urs HÃ¶lzle on the history, security, and future of cloud WATCH THE VIDEO  Sam
+Ramji: making GCP the most developer-friendly cloud LEARN HOW
+\-----------------------------------------------------------------------------
+PLATFORM NEWS Announcing Cloud AutoML: drag-and-drop machine learning  From
+weekend warriors to Disney marketers, AutoML Vision  lets anyone use a drag-
+and-drop interface to upload images and train, manage, and deploy custom
+models directly on GCP. Preemptible GPUs now 50% cheaper than on-demand
+equivalents  Attach NVIDIA K80 and P100 GPUs to preemptible VMs for $0.22 and
+$0.73 per GPU hour, respectively. Use GPUs at predictable, affordable prices
+for large-scale ML and other computational batch workloads. Google Kubernetes
+Engine 1.9 is now available for early access  Greater support for stateful and
+stateless apps. Storage interoperability. Hardware accelerator support for ML
+workloads. Run your production-ready apps on GKE 1.9, and let us manage the
+infrastructure. OpenCensus: new, simplified stats collection and tracing
+OpenCensus, the vendor-neutral, open-source version of Googleâs Census
+library, automatically collects traces and metrics from your app, displays
+them locally, and sends them to analysis tools like Stackdriver and Cloud
+Bigtable.
+\-----------------------------------------------------------------------------
+RESOURCES Google Open Source wants to talk with you  New blog and social media
+accounts let you talk shop with Google open-source evangelists. Lift and shift
+a line-of-business application onto GCP  This first in a series tackles
+migrating an on-prem web app to GCP. Then read how and why Apigee Sense made
+the move . Stronger than strong: Cloud Spannerâs strong consistency defined
+Fewer bugs, fewer headaches, easier-to-maintain code. Learn how strong
+consistency fundamentally changes app performance. Protecting Google Cloud
+customers without impacting performance  Learn how Google reacts to the latest
+security threats and stay up to date with Compute Engine security bulletins .
+\-----------------------------------------------------------------------------
+CLOUD ONAIR Live webinars held weekly by Google Cloud experts. Visit Cloud
+OnAir  to see all upcoming sessions. Introduction to Google Cloud Spanner
+February 6, 2018, 9 AM PT How to Select the Right Storage Class for Your
+Workload  February 6, 2018, 9:45 AM PT
+\-----------------------------------------------------------------------------
+UPCOMING WEBINARS Using BigQuery to reveal how weather impacts search behavior
+February 13, 2018, 10:30 AM PT Hardware Root of Trust with Google Cloud IoT
+Core and Microchip February 6, 2018, 11 AM PT
+\-----------------------------------------------------------------------------
+UPCOMING EVENTS rstudio::conf 2018  February 2â3, 2018 Cloud OnBoard Santa
+Clara February 13, 2018
+\-----------------------------------------------------------------------------
+OVERHEARD Twitter @polleyg  An absolutely EPIC blog by Will Fuks
+(@dafiti_brasil) on how they built a recommender system on @googlecloud.
+Number of servers used? Zero.  Twitter @lak_gcp  Being able to connect to
+internal Google resources directly from a public WiFi is one of those things
+that I wasn't sure I could talk about. When people talked about VPNs and
+firewalls, I would simply nod my head...  Follow us on social media Add your
+voice to the conversation and get the latest news, views, and insights.
+Twitter  Blogger  GitHub  LinkedIn  G+  Facebook  YouTube
+\-----------------------------------------------------------------------------
+Not subscribed to our newsletter yet? Sign up  Feedback  Go to my console . Â©
+2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043 This email
+was sent to deepanshu961@gmail.com because you indicated that you'd like to
+receive offers from Google Cloud Platform. If you don't want to receive such
+emails in the future, please unsubscribe here:  You can also change your
+preferences on your account's profile page by logging in at
+console.cloud.google.com " b'
+
+Google Cloud Newsletter, January 2018. Cloud trends, resources, and platform
+news.
+
+|  You can also view this email in your browser.  
+---  
+  
+| ![Google
+Cloud](http://services.google.com/fh/files/emails/google_cloud_logo_d2x.png)  
+---  
+Newsletter  |  January 2018  
+2018 infrastructure outlook  
+$30 billion invested over the past three years. Five new regions. Three new
+undersea cables. Weâre just getting started.  
+|  SEE THE NETWORK  
+---  
+  
+|  |  |  |  |  | ![Urs HÃ¶lzle on the history, security, and future of
+Cloud](http://services.google.com/fh/files/emails/feature1.png)  
+---  
+Urs HÃ¶lzle on the history, security, and future of cloud  
+WATCH THE VIDEO
+![arrow](http://services.google.com/fh/files/emails/gcp_oct2017_newsletter_tilted_arrow.png)  
+|  |  | ![Sam Ramji: making GCP the most developer-friendly
+cloud](http://services.google.com/fh/files/emails/feature2.png)  
+---  
+Sam Ramji: making GCP the most developer-friendly cloud  
+LEARN HOW
+![arrow](http://services.google.com/fh/files/emails/gcp_oct2017_newsletter_tilted_arrow.png)  
+|  |  PLATFORM NEWS  
+---  
+|  
+---  
+  
+|  | Announcing Cloud AutoML: drag-and-drop machine learning  
+---  
+From weekend warriors to Disney marketers, AutoML Vision lets anyone use a
+drag-and-drop interface to upload images and train, manage, and deploy custom
+models directly on GCP.  
+  
+| Preemptible GPUs now 50% cheaper than on-demand equivalents  
+---  
+Attach NVIDIA K80 and P100 GPUs to preemptible VMs for $0.22 and $0.73 per GPU
+hour, respectively. Use GPUs at predictable, affordable prices for large-scale
+ML and other computational batch workloads.  
+  
+|  | Google Kubernetes Engine 1.9 is now available for early access  
+---  
+Greater support for stateful and stateless apps. Storage interoperability.
+Hardware accelerator support for ML workloads. Run your production-ready apps
+on GKE 1.9, and let us manage the infrastructure.  
+  
+| OpenCensus: new, simplified stats collection and tracing  
+---  
+OpenCensus, the vendor-neutral, open-source version of Googleâs Census
+library, automatically collects traces and metrics from your app, displays
+them locally, and sends them to analysis tools like Stackdriver and Cloud
+Bigtable.  
+  
+|  |  RESOURCES  
+---  
+|  
+---  
+Google Open Source wants to talk with you  
+New blog and social media accounts let you talk shop with Google open-source
+evangelists.  
+Lift and shift a line-of-business application onto GCP  
+This first in a series tackles migrating an on-prem web app to GCP. Then read
+how and why Apigee Sense made the move.  
+Stronger than strong: Cloud Spannerâs strong consistency defined  
+Fewer bugs, fewer headaches, easier-to-maintain code. Learn how strong
+consistency fundamentally changes app performance.  
+Protecting Google Cloud customers without impacting performance  
+Learn how Google reacts to the latest security threats and stay up to date
+with Compute Engine security bulletins.  
+|  |  CLOUD ONAIR  
+---  
+|  
+---  
+Live webinars held weekly by Google Cloud experts. Visit Cloud OnAir to see
+all upcoming sessions.  
+Introduction to Google Cloud Spanner  
+February 6, 2018, 9 AM PT  
+How to Select the Right Storage Class for Your Workload  
+February 6, 2018, 9:45 AM PT  
+|  |  UPCOMING WEBINARS  
+---  
+|  
+---  
+Using BigQuery to reveal how weather impacts search behavior  
+February 13, 2018, 10:30 AM PT  
+Hardware Root of Trust with Google Cloud IoT Core and Microchip  
+February 6, 2018, 11 AM PT  
+|  |  UPCOMING EVENTS  
+---  
+|  
+---  
+rstudio::conf 2018  
+February 2â3, 2018  
+Cloud OnBoard Santa Clara  
+February 13, 2018  
+|  |  OVERHEARD  
+---  
+|  
+---  
+|  |  | ![Twitter](http://services.google.com/fh/files/emails/twitter-
+icon-2x.png)@polleyg  
+An absolutely EPIC blog by Will Fuks (@dafiti_brasil) on how they built a
+recommender system on @googlecloud. Number of servers used? Zero.  
+---  
+| ![Twitter](http://services.google.com/fh/files/emails/twitter-
+icon-2x.png)@lak_gcp  
+Being able to connect to internal Google resources directly from a public WiFi
+is one of those things that I wasn't sure I could talk about. When people
+talked about VPNs and firewalls, I would simply nod my head...  
+---  
+| Follow us on social media  
+---  
+Add your voice to the conversation and get the latest news, views, and
+insights.  
+|  ![Twitter](http://services.google.com/fh/files/emails/twitter_d2x.png) |
+|  ![Blogger](http://services.google.com/fh/files/emails/blogger_d2x.png) |
+|  ![GitHub](http://services.google.com/fh/files/emails/github_d2x.png) |
+|  ![LinkedIn](http://services.google.com/fh/files/emails/linkedin_d2x.png) |
+|  ![G+](http://services.google.com/fh/files/emails/gplus_d2x.png) |     |
+![Facebook](http://services.google.com/fh/files/emails/facebook_d2x.png) |
+|
+![YouTube](http://services.google.com/fh/files/emails/youtube_circle_black_d2x.png)  
+---|---|---|---|---|---|---|---|---|---|---|---|---  
+|  |  | Not subscribed to our newsletter yet? Sign up  
+---  
+![Feedback](http://services.google.com/fh/files/emails/feedback_d2x.png) |
+Feedback  
+---|---  
+| Go to my console.  
+---  
+|  Â© 2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043  
+  
+This email was sent to deepanshu961@gmail.com because you indicated that you'd
+like to receive offers from Google Cloud Platform. If you don't want to
+receive such emails in the future, please unsubscribe here:
+
+https://www.google.com/appserve/mkt/optout/AFOm0uEPVqHZxToqVcVMXGOsozyRsvVprY-
+LdOhmVf8cMLzKpZafAtMnLxfU26Y-MYpBq0Qrkw?hl=en-GB
+
+You can also change your preferences on your account's profile page by logging
+in at console.cloud.google.com  
+---  
+  
+![](https://www.google.com/appserve/mkt/img/AFOm0uGLLHuCnlCbK5LqYoHWmeXy-K9EZl1_toEkaLP0DsBn.gif)
+' b" You can also view this email in your browser . Google Cloud Newsletter |
+January 2018 2018 infrastructure outlook $30 billion invested over the past
+three years. Five new regions. Three new undersea cables. Weâre just getting
+started. SEE THE NETWORK
+\-----------------------------------------------------------------------------
+Urs HÃ¶lzle on the history, security, and future of cloud WATCH THE VIDEO  Sam
+Ramji: making GCP the most developer-friendly cloud LEARN HOW
+\-----------------------------------------------------------------------------
+PLATFORM NEWS Announcing Cloud AutoML: drag-and-drop machine learning  From
+weekend warriors to Disney marketers, AutoML Vision  lets anyone use a drag-
+and-drop interface to upload images and train, manage, and deploy custom
+models directly on GCP. Preemptible GPUs now 50% cheaper than on-demand
+equivalents  Attach NVIDIA K80 and P100 GPUs to preemptible VMs for $0.22 and
+$0.73 per GPU hour, respectively. Use GPUs at predictable, affordable prices
+for large-scale ML and other computational batch workloads. Google Kubernetes
+Engine 1.9 is now available for early access  Greater support for stateful and
+stateless apps. Storage interoperability. Hardware accelerator support for ML
+workloads. Run your production-ready apps on GKE 1.9, and let us manage the
+infrastructure. OpenCensus: new, simplified stats collection and tracing
+OpenCensus, the vendor-neutral, open-source version of Googleâs Census
+library, automatically collects traces and metrics from your app, displays
+them locally, and sends them to analysis tools like Stackdriver and Cloud
+Bigtable.
+\-----------------------------------------------------------------------------
+RESOURCES Google Open Source wants to talk with you  New blog and social media
+accounts let you talk shop with Google open-source evangelists. Lift and shift
+a line-of-business application onto GCP  This first in a series tackles
+migrating an on-prem web app to GCP. Then read how and why Apigee Sense made
+the move . Stronger than strong: Cloud Spannerâs strong consistency defined
+Fewer bugs, fewer headaches, easier-to-maintain code. Learn how strong
+consistency fundamentally changes app performance. Protecting Google Cloud
+customers without impacting performance  Learn how Google reacts to the latest
+security threats and stay up to date with Compute Engine security bulletins .
+\-----------------------------------------------------------------------------
+CLOUD ONAIR Live webinars held weekly by Google Cloud experts. Visit Cloud
+OnAir  to see all upcoming sessions. Introduction to Google Cloud Spanner
+February 6, 2018, 9 AM PT How to Select the Right Storage Class for Your
+Workload  February 6, 2018, 9:45 AM PT
+\-----------------------------------------------------------------------------
+UPCOMING WEBINARS Using BigQuery to reveal how weather impacts search behavior
+February 13, 2018, 10:30 AM PT Hardware Root of Trust with Google Cloud IoT
+Core and Microchip February 6, 2018, 11 AM PT
+\-----------------------------------------------------------------------------
+UPCOMING EVENTS rstudio::conf 2018  February 2â3, 2018 Cloud OnBoard Santa
+Clara February 13, 2018
+\-----------------------------------------------------------------------------
+OVERHEARD Twitter @polleyg  An absolutely EPIC blog by Will Fuks
+(@dafiti_brasil) on how they built a recommender system on @googlecloud.
+Number of servers used? Zero.  Twitter @lak_gcp  Being able to connect to
+internal Google resources directly from a public WiFi is one of those things
+that I wasn't sure I could talk about. When people talked about VPNs and
+firewalls, I would simply nod my head...  Follow us on social media Add your
+voice to the conversation and get the latest news, views, and insights.
+Twitter  Blogger  GitHub  LinkedIn  G+  Facebook  YouTube
+\-----------------------------------------------------------------------------
+Not subscribed to our newsletter yet? Sign up  Feedback  Go to my console . Â©
+2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043 This email
+was sent to deepanshu961@gmail.com because you indicated that you'd like to
+receive offers from Google Cloud Platform. If you don't want to receive such
+emails in the future, please unsubscribe here:  You can also change your
+preferences on your account's profile page by logging in at
+console.cloud.google.com " b'
+
+Google Cloud Newsletter, January 2018. Cloud trends, resources, and platform
+news.
+
+|  You can also view this email in your browser.  
+---  
+  
+| ![Google
+Cloud](http://services.google.com/fh/files/emails/google_cloud_logo_d2x.png)  
+---  
+Newsletter  |  January 2018  
+2018 infrastructure outlook  
+$30 billion invested over the past three years. Five new regions. Three new
+undersea cables. Weâre just getting started.  
+|  SEE THE NETWORK  
+---  
+  
+|  |  |  |  |  | ![Urs HÃ¶lzle on the history, security, and future of
+Cloud](http://services.google.com/fh/files/emails/feature1.png)  
+---  
+Urs HÃ¶lzle on the history, security, and future of cloud  
+WATCH THE VIDEO
+![arrow](http://services.google.com/fh/files/emails/gcp_oct2017_newsletter_tilted_arrow.png)  
+|  |  | ![Sam Ramji: making GCP the most developer-friendly
+cloud](http://services.google.com/fh/files/emails/feature2.png)  
+---  
+Sam Ramji: making GCP the most developer-friendly cloud  
+LEARN HOW
+![arrow](http://services.google.com/fh/files/emails/gcp_oct2017_newsletter_tilted_arrow.png)  
+|  |  PLATFORM NEWS  
+---  
+|  
+---  
+  
+|  | Announcing Cloud AutoML: drag-and-drop machine learning  
+---  
+From weekend warriors to Disney marketers, AutoML Vision lets anyone use a
+drag-and-drop interface to upload images and train, manage, and deploy custom
+models directly on GCP.  
+  
+| Preemptible GPUs now 50% cheaper than on-demand equivalents  
+---  
+Attach NVIDIA K80 and P100 GPUs to preemptible VMs for $0.22 and $0.73 per GPU
+hour, respectively. Use GPUs at predictable, affordable prices for large-scale
+ML and other computational batch workloads.  
+  
+|  | Google Kubernetes Engine 1.9 is now available for early access  
+---  
+Greater support for stateful and stateless apps. Storage interoperability.
+Hardware accelerator support for ML workloads. Run your production-ready apps
+on GKE 1.9, and let us manage the infrastructure.  
+  
+| OpenCensus: new, simplified stats collection and tracing  
+---  
+OpenCensus, the vendor-neutral, open-source version of Googleâs Census
+library, automatically collects traces and metrics from your app, displays
+them locally, and sends them to analysis tools like Stackdriver and Cloud
+Bigtable.  
+  
+|  |  RESOURCES  
+---  
+|  
+---  
+Google Open Source wants to talk with you  
+New blog and social media accounts let you talk shop with Google open-source
+evangelists.  
+Lift and shift a line-of-business application onto GCP  
+This first in a series tackles migrating an on-prem web app to GCP. Then read
+how and why Apigee Sense made the move.  
+Stronger than strong: Cloud Spannerâs strong consistency defined  
+Fewer bugs, fewer headaches, easier-to-maintain code. Learn how strong
+consistency fundamentally changes app performance.  
+Protecting Google Cloud customers without impacting performance  
+Learn how Google reacts to the latest security threats and stay up to date
+with Compute Engine security bulletins.  
+|  |  CLOUD ONAIR  
+---  
+|  
+---  
+Live webinars held weekly by Google Cloud experts. Visit Cloud OnAir to see
+all upcoming sessions.  
+Introduction to Google Cloud Spanner  
+February 6, 2018, 9 AM PT  
+How to Select the Right Storage Class for Your Workload  
+February 6, 2018, 9:45 AM PT  
+|  |  UPCOMING WEBINARS  
+---  
+|  
+---  
+Using BigQuery to reveal how weather impacts search behavior  
+February 13, 2018, 10:30 AM PT  
+Hardware Root of Trust with Google Cloud IoT Core and Microchip  
+February 6, 2018, 11 AM PT  
+|  |  UPCOMING EVENTS  
+---  
+|  
+---  
+rstudio::conf 2018  
+February 2â3, 2018  
+Cloud OnBoard Santa Clara  
+February 13, 2018  
+|  |  OVERHEARD  
+---  
+|  
+---  
+|  |  | ![Twitter](http://services.google.com/fh/files/emails/twitter-
+icon-2x.png)@polleyg  
+An absolutely EPIC blog by Will Fuks (@dafiti_brasil) on how they built a
+recommender system on @googlecloud. Number of servers used? Zero.  
+---  
+| ![Twitter](http://services.google.com/fh/files/emails/twitter-
+icon-2x.png)@lak_gcp  
+Being able to connect to internal Google resources directly from a public WiFi
+is one of those things that I wasn't sure I could talk about. When people
+talked about VPNs and firewalls, I would simply nod my head...  
+---  
+| Follow us on social media  
+---  
+Add your voice to the conversation and get the latest news, views, and
+insights.  
+|  ![Twitter](http://services.google.com/fh/files/emails/twitter_d2x.png) |
+|  ![Blogger](http://services.google.com/fh/files/emails/blogger_d2x.png) |
+|  ![GitHub](http://services.google.com/fh/files/emails/github_d2x.png) |
+|  ![LinkedIn](http://services.google.com/fh/files/emails/linkedin_d2x.png) |
+|  ![G+](http://services.google.com/fh/files/emails/gplus_d2x.png) |     |
+![Facebook](http://services.google.com/fh/files/emails/facebook_d2x.png) |
+|
+![YouTube](http://services.google.com/fh/files/emails/youtube_circle_black_d2x.png)  
+---|---|---|---|---|---|---|---|---|---|---|---|---  
+|  |  | Not subscribed to our newsletter yet? Sign up  
+---  
+![Feedback](http://services.google.com/fh/files/emails/feedback_d2x.png) |
+Feedback  
+---|---  
+| Go to my console.  
+---  
+|  Â© 2018 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043  
+  
+This email was sent to deepanshu961@gmail.com because you indicated that you'd
+like to receive offers from Google Cloud Platform. If you don't want to
+receive such emails in the future, please unsubscribe here:
+
+https://www.google.com/appserve/mkt/optout/AFOm0uEPVqHZxToqVcVMXGOsozyRsvVprY-
+LdOhmVf8cMLzKpZafAtMnLxfU26Y-MYpBq0Qrkw?hl=en-GB
+
+You can also change your preferences on your account's profile page by logging
+in at console.cloud.google.com  
+---  
+  
+![](https://www.google.com/appserve/mkt/img/AFOm0uGLLHuCnlCbK5LqYoHWmeXy-K9EZl1_toEkaLP0DsBn.gif)
+'
+

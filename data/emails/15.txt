@@ -1,0 +1,1328 @@
+b'Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model. \- Gordon On
+Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote: > > I am
+doing lda in a HathiTrust virtual machine. I need to save the model > so I can
+move it from the VM to my computer. Here is my very basic code: > > lda =
+gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix, > id2word=dictionary,
+num_topics=200) > print(lda.show_topics(num_topics=200)) >
+lda[doc_term_matrix].save('DAN_OUTPUT') > > When I then try to load
+'DAN_OUTPUT', I get this error: > >
+runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py', >
+wdir='/Users/dsinykin/Desktop/PythonFiles') > WARNING:root:random_state not
+set so using default value > WARNING:root:failed to load state from
+DAN_OUTPUT.state: [Errno 2] No > such file or directory: 'DAN_OUTPUT.state' >
+> Can anyone help explain? Do I need to give the filename a particular >
+extension? > > \-- You received this message because you are subscribed to the
+Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model.
+
+  
+
+\- Gordon
+
+  
+On Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote:
+
+> I am doing lda in a HathiTrust virtual machine. I need to save the model so
+I can move it from the VM to my computer. Here is my very basic code:
+
+>
+
+>  
+>
+
+>
+
+> Â Â lda = gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix,
+id2word=dictionary, num_topics=200)
+
+>
+
+> Â Â print(lda.show_topics(num_topics=200))
+
+>
+
+> Â Â lda[doc_term_matrix].save('DAN_OUTPUT')
+
+>
+
+>  
+>
+
+>
+
+> When I then try to load 'DAN_OUTPUT', I get this error:Â
+
+>
+
+>  
+>
+
+>
+
+> Â Â runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py',
+wdir='/Users/dsinykin/Desktop/PythonFiles')
+
+>
+
+> Â Â WARNING:root:random_state not set so using default value
+
+>
+
+> Â Â WARNING:root:failed to load state from DAN_OUTPUT.state: [Errno 2] No
+such file or directory: 'DAN_OUTPUT.state'
+
+>
+
+>  
+>
+
+>
+
+> Can anyone help explain? Do I need to give the filename a particular
+extension?
+
+>
+
+>  
+>
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model. \- Gordon On
+Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote: > > I am
+doing lda in a HathiTrust virtual machine. I need to save the model > so I can
+move it from the VM to my computer. Here is my very basic code: > > lda =
+gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix, > id2word=dictionary,
+num_topics=200) > print(lda.show_topics(num_topics=200)) >
+lda[doc_term_matrix].save('DAN_OUTPUT') > > When I then try to load
+'DAN_OUTPUT', I get this error: > >
+runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py', >
+wdir='/Users/dsinykin/Desktop/PythonFiles') > WARNING:root:random_state not
+set so using default value > WARNING:root:failed to load state from
+DAN_OUTPUT.state: [Errno 2] No > such file or directory: 'DAN_OUTPUT.state' >
+> Can anyone help explain? Do I need to give the filename a particular >
+extension? > > \-- You received this message because you are subscribed to the
+Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model.
+
+  
+
+\- Gordon
+
+  
+On Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote:
+
+> I am doing lda in a HathiTrust virtual machine. I need to save the model so
+I can move it from the VM to my computer. Here is my very basic code:
+
+>
+
+>  
+>
+
+>
+
+> Â Â lda = gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix,
+id2word=dictionary, num_topics=200)
+
+>
+
+> Â Â print(lda.show_topics(num_topics=200))
+
+>
+
+> Â Â lda[doc_term_matrix].save('DAN_OUTPUT')
+
+>
+
+>  
+>
+
+>
+
+> When I then try to load 'DAN_OUTPUT', I get this error:Â
+
+>
+
+>  
+>
+
+>
+
+> Â Â runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py',
+wdir='/Users/dsinykin/Desktop/PythonFiles')
+
+>
+
+> Â Â WARNING:root:random_state not set so using default value
+
+>
+
+> Â Â WARNING:root:failed to load state from DAN_OUTPUT.state: [Errno 2] No
+such file or directory: 'DAN_OUTPUT.state'
+
+>
+
+>  
+>
+
+>
+
+> Can anyone help explain? Do I need to give the filename a particular
+extension?
+
+>
+
+>  
+>
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model. \- Gordon On
+Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote: > > I am
+doing lda in a HathiTrust virtual machine. I need to save the model > so I can
+move it from the VM to my computer. Here is my very basic code: > > lda =
+gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix, > id2word=dictionary,
+num_topics=200) > print(lda.show_topics(num_topics=200)) >
+lda[doc_term_matrix].save('DAN_OUTPUT') > > When I then try to load
+'DAN_OUTPUT', I get this error: > >
+runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py', >
+wdir='/Users/dsinykin/Desktop/PythonFiles') > WARNING:root:random_state not
+set so using default value > WARNING:root:failed to load state from
+DAN_OUTPUT.state: [Errno 2] No > such file or directory: 'DAN_OUTPUT.state' >
+> Can anyone help explain? Do I need to give the filename a particular >
+extension? > > \-- You received this message because you are subscribed to the
+Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model.
+
+  
+
+\- Gordon
+
+  
+On Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote:
+
+> I am doing lda in a HathiTrust virtual machine. I need to save the model so
+I can move it from the VM to my computer. Here is my very basic code:
+
+>
+
+>  
+>
+
+>
+
+> Â Â lda = gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix,
+id2word=dictionary, num_topics=200)
+
+>
+
+> Â Â print(lda.show_topics(num_topics=200))
+
+>
+
+> Â Â lda[doc_term_matrix].save('DAN_OUTPUT')
+
+>
+
+>  
+>
+
+>
+
+> When I then try to load 'DAN_OUTPUT', I get this error:Â
+
+>
+
+>  
+>
+
+>
+
+> Â Â runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py',
+wdir='/Users/dsinykin/Desktop/PythonFiles')
+
+>
+
+> Â Â WARNING:root:random_state not set so using default value
+
+>
+
+> Â Â WARNING:root:failed to load state from DAN_OUTPUT.state: [Errno 2] No
+such file or directory: 'DAN_OUTPUT.state'
+
+>
+
+>  
+>
+
+>
+
+> Can anyone help explain? Do I need to give the filename a particular
+extension?
+
+>
+
+>  
+>
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model. \- Gordon On
+Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote: > > I am
+doing lda in a HathiTrust virtual machine. I need to save the model > so I can
+move it from the VM to my computer. Here is my very basic code: > > lda =
+gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix, > id2word=dictionary,
+num_topics=200) > print(lda.show_topics(num_topics=200)) >
+lda[doc_term_matrix].save('DAN_OUTPUT') > > When I then try to load
+'DAN_OUTPUT', I get this error: > >
+runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py', >
+wdir='/Users/dsinykin/Desktop/PythonFiles') > WARNING:root:random_state not
+set so using default value > WARNING:root:failed to load state from
+DAN_OUTPUT.state: [Errno 2] No > such file or directory: 'DAN_OUTPUT.state' >
+> Can anyone help explain? Do I need to give the filename a particular >
+extension? > > \-- You received this message because you are subscribed to the
+Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model.
+
+  
+
+\- Gordon
+
+  
+On Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote:
+
+> I am doing lda in a HathiTrust virtual machine. I need to save the model so
+I can move it from the VM to my computer. Here is my very basic code:
+
+>
+
+>  
+>
+
+>
+
+> Â Â lda = gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix,
+id2word=dictionary, num_topics=200)
+
+>
+
+> Â Â print(lda.show_topics(num_topics=200))
+
+>
+
+> Â Â lda[doc_term_matrix].save('DAN_OUTPUT')
+
+>
+
+>  
+>
+
+>
+
+> When I then try to load 'DAN_OUTPUT', I get this error:Â
+
+>
+
+>  
+>
+
+>
+
+> Â Â runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py',
+wdir='/Users/dsinykin/Desktop/PythonFiles')
+
+>
+
+> Â Â WARNING:root:random_state not set so using default value
+
+>
+
+> Â Â WARNING:root:failed to load state from DAN_OUTPUT.state: [Errno 2] No
+such file or directory: 'DAN_OUTPUT.state'
+
+>
+
+>  
+>
+
+>
+
+> Can anyone help explain? Do I need to give the filename a particular
+extension?
+
+>
+
+>  
+>
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model. \- Gordon On
+Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote: > > I am
+doing lda in a HathiTrust virtual machine. I need to save the model > so I can
+move it from the VM to my computer. Here is my very basic code: > > lda =
+gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix, > id2word=dictionary,
+num_topics=200) > print(lda.show_topics(num_topics=200)) >
+lda[doc_term_matrix].save('DAN_OUTPUT') > > When I then try to load
+'DAN_OUTPUT', I get this error: > >
+runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py', >
+wdir='/Users/dsinykin/Desktop/PythonFiles') > WARNING:root:random_state not
+set so using default value > WARNING:root:failed to load state from
+DAN_OUTPUT.state: [Errno 2] No > such file or directory: 'DAN_OUTPUT.state' >
+> Can anyone help explain? Do I need to give the filename a particular >
+extension? > > \-- You received this message because you are subscribed to the
+Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model.
+
+  
+
+\- Gordon
+
+  
+On Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote:
+
+> I am doing lda in a HathiTrust virtual machine. I need to save the model so
+I can move it from the VM to my computer. Here is my very basic code:
+
+>
+
+>  
+>
+
+>
+
+> Â Â lda = gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix,
+id2word=dictionary, num_topics=200)
+
+>
+
+> Â Â print(lda.show_topics(num_topics=200))
+
+>
+
+> Â Â lda[doc_term_matrix].save('DAN_OUTPUT')
+
+>
+
+>  
+>
+
+>
+
+> When I then try to load 'DAN_OUTPUT', I get this error:Â
+
+>
+
+>  
+>
+
+>
+
+> Â Â runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py',
+wdir='/Users/dsinykin/Desktop/PythonFiles')
+
+>
+
+> Â Â WARNING:root:random_state not set so using default value
+
+>
+
+> Â Â WARNING:root:failed to load state from DAN_OUTPUT.state: [Errno 2] No
+such file or directory: 'DAN_OUTPUT.state'
+
+>
+
+>  
+>
+
+>
+
+> Can anyone help explain? Do I need to give the filename a particular
+extension?
+
+>
+
+>  
+>
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model. \- Gordon On
+Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote: > > I am
+doing lda in a HathiTrust virtual machine. I need to save the model > so I can
+move it from the VM to my computer. Here is my very basic code: > > lda =
+gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix, > id2word=dictionary,
+num_topics=200) > print(lda.show_topics(num_topics=200)) >
+lda[doc_term_matrix].save('DAN_OUTPUT') > > When I then try to load
+'DAN_OUTPUT', I get this error: > >
+runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py', >
+wdir='/Users/dsinykin/Desktop/PythonFiles') > WARNING:root:random_state not
+set so using default value > WARNING:root:failed to load state from
+DAN_OUTPUT.state: [Errno 2] No > such file or directory: 'DAN_OUTPUT.state' >
+> Can anyone help explain? Do I need to give the filename a particular >
+extension? > > \-- You received this message because you are subscribed to the
+Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model.
+
+  
+
+\- Gordon
+
+  
+On Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote:
+
+> I am doing lda in a HathiTrust virtual machine. I need to save the model so
+I can move it from the VM to my computer. Here is my very basic code:
+
+>
+
+>  
+>
+
+>
+
+> Â Â lda = gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix,
+id2word=dictionary, num_topics=200)
+
+>
+
+> Â Â print(lda.show_topics(num_topics=200))
+
+>
+
+> Â Â lda[doc_term_matrix].save('DAN_OUTPUT')
+
+>
+
+>  
+>
+
+>
+
+> When I then try to load 'DAN_OUTPUT', I get this error:Â
+
+>
+
+>  
+>
+
+>
+
+> Â Â runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py',
+wdir='/Users/dsinykin/Desktop/PythonFiles')
+
+>
+
+> Â Â WARNING:root:random_state not set so using default value
+
+>
+
+> Â Â WARNING:root:failed to load state from DAN_OUTPUT.state: [Errno 2] No
+such file or directory: 'DAN_OUTPUT.state'
+
+>
+
+>  
+>
+
+>
+
+> Can anyone help explain? Do I need to give the filename a particular
+extension?
+
+>
+
+>  
+>
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model. \- Gordon On
+Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote: > > I am
+doing lda in a HathiTrust virtual machine. I need to save the model > so I can
+move it from the VM to my computer. Here is my very basic code: > > lda =
+gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix, > id2word=dictionary,
+num_topics=200) > print(lda.show_topics(num_topics=200)) >
+lda[doc_term_matrix].save('DAN_OUTPUT') > > When I then try to load
+'DAN_OUTPUT', I get this error: > >
+runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py', >
+wdir='/Users/dsinykin/Desktop/PythonFiles') > WARNING:root:random_state not
+set so using default value > WARNING:root:failed to load state from
+DAN_OUTPUT.state: [Errno 2] No > such file or directory: 'DAN_OUTPUT.state' >
+> Can anyone help explain? Do I need to give the filename a particular >
+extension? > > \-- You received this message because you are subscribed to the
+Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model.
+
+  
+
+\- Gordon
+
+  
+On Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote:
+
+> I am doing lda in a HathiTrust virtual machine. I need to save the model so
+I can move it from the VM to my computer. Here is my very basic code:
+
+>
+
+>  
+>
+
+>
+
+> Â Â lda = gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix,
+id2word=dictionary, num_topics=200)
+
+>
+
+> Â Â print(lda.show_topics(num_topics=200))
+
+>
+
+> Â Â lda[doc_term_matrix].save('DAN_OUTPUT')
+
+>
+
+>  
+>
+
+>
+
+> When I then try to load 'DAN_OUTPUT', I get this error:Â
+
+>
+
+>  
+>
+
+>
+
+> Â Â runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py',
+wdir='/Users/dsinykin/Desktop/PythonFiles')
+
+>
+
+> Â Â WARNING:root:random_state not set so using default value
+
+>
+
+> Â Â WARNING:root:failed to load state from DAN_OUTPUT.state: [Errno 2] No
+such file or directory: 'DAN_OUTPUT.state'
+
+>
+
+>  
+>
+
+>
+
+> Can anyone help explain? Do I need to give the filename a particular
+extension?
+
+>
+
+>  
+>
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model. \- Gordon On
+Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote: > > I am
+doing lda in a HathiTrust virtual machine. I need to save the model > so I can
+move it from the VM to my computer. Here is my very basic code: > > lda =
+gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix, > id2word=dictionary,
+num_topics=200) > print(lda.show_topics(num_topics=200)) >
+lda[doc_term_matrix].save('DAN_OUTPUT') > > When I then try to load
+'DAN_OUTPUT', I get this error: > >
+runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py', >
+wdir='/Users/dsinykin/Desktop/PythonFiles') > WARNING:root:random_state not
+set so using default value > WARNING:root:failed to load state from
+DAN_OUTPUT.state: [Errno 2] No > such file or directory: 'DAN_OUTPUT.state' >
+> Can anyone help explain? Do I need to give the filename a particular >
+extension? > > \-- You received this message because you are subscribed to the
+Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model.
+
+  
+
+\- Gordon
+
+  
+On Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote:
+
+> I am doing lda in a HathiTrust virtual machine. I need to save the model so
+I can move it from the VM to my computer. Here is my very basic code:
+
+>
+
+>  
+>
+
+>
+
+> Â Â lda = gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix,
+id2word=dictionary, num_topics=200)
+
+>
+
+> Â Â print(lda.show_topics(num_topics=200))
+
+>
+
+> Â Â lda[doc_term_matrix].save('DAN_OUTPUT')
+
+>
+
+>  
+>
+
+>
+
+> When I then try to load 'DAN_OUTPUT', I get this error:Â
+
+>
+
+>  
+>
+
+>
+
+> Â Â runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py',
+wdir='/Users/dsinykin/Desktop/PythonFiles')
+
+>
+
+> Â Â WARNING:root:random_state not set so using default value
+
+>
+
+> Â Â WARNING:root:failed to load state from DAN_OUTPUT.state: [Errno 2] No
+such file or directory: 'DAN_OUTPUT.state'
+
+>
+
+>  
+>
+
+>
+
+> Can anyone help explain? Do I need to give the filename a particular
+extension?
+
+>
+
+>  
+>
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model. \- Gordon On
+Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote: > > I am
+doing lda in a HathiTrust virtual machine. I need to save the model > so I can
+move it from the VM to my computer. Here is my very basic code: > > lda =
+gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix, > id2word=dictionary,
+num_topics=200) > print(lda.show_topics(num_topics=200)) >
+lda[doc_term_matrix].save('DAN_OUTPUT') > > When I then try to load
+'DAN_OUTPUT', I get this error: > >
+runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py', >
+wdir='/Users/dsinykin/Desktop/PythonFiles') > WARNING:root:random_state not
+set so using default value > WARNING:root:failed to load state from
+DAN_OUTPUT.state: [Errno 2] No > such file or directory: 'DAN_OUTPUT.state' >
+> Can anyone help explain? Do I need to give the filename a particular >
+extension? > > \-- You received this message because you are subscribed to the
+Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model.
+
+  
+
+\- Gordon
+
+  
+On Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote:
+
+> I am doing lda in a HathiTrust virtual machine. I need to save the model so
+I can move it from the VM to my computer. Here is my very basic code:
+
+>
+
+>  
+>
+
+>
+
+> Â Â lda = gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix,
+id2word=dictionary, num_topics=200)
+
+>
+
+> Â Â print(lda.show_topics(num_topics=200))
+
+>
+
+> Â Â lda[doc_term_matrix].save('DAN_OUTPUT')
+
+>
+
+>  
+>
+
+>
+
+> When I then try to load 'DAN_OUTPUT', I get this error:Â
+
+>
+
+>  
+>
+
+>
+
+> Â Â runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py',
+wdir='/Users/dsinykin/Desktop/PythonFiles')
+
+>
+
+> Â Â WARNING:root:random_state not set so using default value
+
+>
+
+> Â Â WARNING:root:failed to load state from DAN_OUTPUT.state: [Errno 2] No
+such file or directory: 'DAN_OUTPUT.state'
+
+>
+
+>  
+>
+
+>
+
+> Can anyone help explain? Do I need to give the filename a particular
+extension?
+
+>
+
+>  
+>
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model. \- Gordon On
+Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote: > > I am
+doing lda in a HathiTrust virtual machine. I need to save the model > so I can
+move it from the VM to my computer. Here is my very basic code: > > lda =
+gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix, > id2word=dictionary,
+num_topics=200) > print(lda.show_topics(num_topics=200)) >
+lda[doc_term_matrix].save('DAN_OUTPUT') > > When I then try to load
+'DAN_OUTPUT', I get this error: > >
+runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py', >
+wdir='/Users/dsinykin/Desktop/PythonFiles') > WARNING:root:random_state not
+set so using default value > WARNING:root:failed to load state from
+DAN_OUTPUT.state: [Errno 2] No > such file or directory: 'DAN_OUTPUT.state' >
+> Can anyone help explain? Do I need to give the filename a particular >
+extension? > > \-- You received this message because you are subscribed to the
+Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model.
+
+  
+
+\- Gordon
+
+  
+On Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote:
+
+> I am doing lda in a HathiTrust virtual machine. I need to save the model so
+I can move it from the VM to my computer. Here is my very basic code:
+
+>
+
+>  
+>
+
+>
+
+> Â Â lda = gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix,
+id2word=dictionary, num_topics=200)
+
+>
+
+> Â Â print(lda.show_topics(num_topics=200))
+
+>
+
+> Â Â lda[doc_term_matrix].save('DAN_OUTPUT')
+
+>
+
+>  
+>
+
+>
+
+> When I then try to load 'DAN_OUTPUT', I get this error:Â
+
+>
+
+>  
+>
+
+>
+
+> Â Â runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py',
+wdir='/Users/dsinykin/Desktop/PythonFiles')
+
+>
+
+> Â Â WARNING:root:random_state not set so using default value
+
+>
+
+> Â Â WARNING:root:failed to load state from DAN_OUTPUT.state: [Errno 2] No
+such file or directory: 'DAN_OUTPUT.state'
+
+>
+
+>  
+>
+
+>
+
+> Can anyone help explain? Do I need to give the filename a particular
+extension?
+
+>
+
+>  
+>
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model. \- Gordon On
+Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote: > > I am
+doing lda in a HathiTrust virtual machine. I need to save the model > so I can
+move it from the VM to my computer. Here is my very basic code: > > lda =
+gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix, > id2word=dictionary,
+num_topics=200) > print(lda.show_topics(num_topics=200)) >
+lda[doc_term_matrix].save('DAN_OUTPUT') > > When I then try to load
+'DAN_OUTPUT', I get this error: > >
+runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py', >
+wdir='/Users/dsinykin/Desktop/PythonFiles') > WARNING:root:random_state not
+set so using default value > WARNING:root:failed to load state from
+DAN_OUTPUT.state: [Errno 2] No > such file or directory: 'DAN_OUTPUT.state' >
+> Can anyone help explain? Do I need to give the filename a particular >
+extension? > > \-- You received this message because you are subscribed to the
+Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model.
+
+  
+
+\- Gordon
+
+  
+On Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote:
+
+> I am doing lda in a HathiTrust virtual machine. I need to save the model so
+I can move it from the VM to my computer. Here is my very basic code:
+
+>
+
+>  
+>
+
+>
+
+> Â Â lda = gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix,
+id2word=dictionary, num_topics=200)
+
+>
+
+> Â Â print(lda.show_topics(num_topics=200))
+
+>
+
+> Â Â lda[doc_term_matrix].save('DAN_OUTPUT')
+
+>
+
+>  
+>
+
+>
+
+> When I then try to load 'DAN_OUTPUT', I get this error:Â
+
+>
+
+>  
+>
+
+>
+
+> Â Â runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py',
+wdir='/Users/dsinykin/Desktop/PythonFiles')
+
+>
+
+> Â Â WARNING:root:random_state not set so using default value
+
+>
+
+> Â Â WARNING:root:failed to load state from DAN_OUTPUT.state: [Errno 2] No
+such file or directory: 'DAN_OUTPUT.state'
+
+>
+
+>  
+>
+
+>
+
+> Can anyone help explain? Do I need to give the filename a particular
+extension?
+
+>
+
+>  
+>
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model. \- Gordon On
+Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote: > > I am
+doing lda in a HathiTrust virtual machine. I need to save the model > so I can
+move it from the VM to my computer. Here is my very basic code: > > lda =
+gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix, > id2word=dictionary,
+num_topics=200) > print(lda.show_topics(num_topics=200)) >
+lda[doc_term_matrix].save('DAN_OUTPUT') > > When I then try to load
+'DAN_OUTPUT', I get this error: > >
+runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py', >
+wdir='/Users/dsinykin/Desktop/PythonFiles') > WARNING:root:random_state not
+set so using default value > WARNING:root:failed to load state from
+DAN_OUTPUT.state: [Errno 2] No > such file or directory: 'DAN_OUTPUT.state' >
+> Can anyone help explain? Do I need to give the filename a particular >
+extension? > > \-- You received this message because you are subscribed to the
+Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Often for efficiency when dealing with large data structures, a single
+`save()` will generate multiple files - a master file with the name you
+supplied, and subsidiary files with extra extensions. To move the model to a
+new location, you should move all such files, and keep them together at the
+same relative paths. Here, the error suggests a 'DAN_OUTPUT.state' wile was
+created alongside `DAN_OUTPUT`. That, and any other files beginning
+`DAN_OUTPUT.` should be kept together to store/move your model.
+
+  
+
+\- Gordon
+
+  
+On Thursday, January 25, 2018 at 11:40:26 AM UTC-8, Dan Sinykin wrote:
+
+> I am doing lda in a HathiTrust virtual machine. I need to save the model so
+I can move it from the VM to my computer. Here is my very basic code:
+
+>
+
+>  
+>
+
+>
+
+> Â Â lda = gensim.models.ldamodel.LdaModel(corpus=doc_term_matrix,
+id2word=dictionary, num_topics=200)
+
+>
+
+> Â Â print(lda.show_topics(num_topics=200))
+
+>
+
+> Â Â lda[doc_term_matrix].save('DAN_OUTPUT')
+
+>
+
+>  
+>
+
+>
+
+> When I then try to load 'DAN_OUTPUT', I get this error:Â
+
+>
+
+>  
+>
+
+>
+
+> Â Â runfile('/Users/dsinykin/Desktop/PythonFiles/gensimTest.py',
+wdir='/Users/dsinykin/Desktop/PythonFiles')
+
+>
+
+> Â Â WARNING:root:random_state not set so using default value
+
+>
+
+> Â Â WARNING:root:failed to load state from DAN_OUTPUT.state: [Errno 2] No
+such file or directory: 'DAN_OUTPUT.state'
+
+>
+
+>  
+>
+
+>
+
+> Can anyone help explain? Do I need to give the filename a particular
+extension?
+
+>
+
+>  
+>
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+

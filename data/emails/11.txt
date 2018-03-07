@@ -1,0 +1,392 @@
+b'You have used all of your 550 Free Dyno hours for January 2018.
+
+  * If you verify your account with a credit card, you can receive 450 more Free Dyno hours a month.
+  * One or more of your Free Dyno apps are becoming more popular. Upgrade your app to Hobby dynos for $7 per dyno per month so it never sleeps and users can access it 24/7.
+  * A monitoring service could unintentionally be keeping your app awake. Run 
+    
+        heroku logs -t
+
+to view your app's logs to see if this is the case and remove Pingdom, New
+Relic or other availability monitoring services that are not required for a
+free app
+
+  * Your application may not have a web dyno at all. Once worker-only apps are started, they run 24/7. You can avoid this by upgrading to a hobby dyno, or by manually scaling down your application
+
+Dyno sleeping lets us provide you and millions of other users with a free tier
+for experimenting, hacking on personal projects and running low traffic apps.
+We're here to help and would love to hear from you or answer any questions at
+help.heroku.com. Happy coding, Heroku' b' |  |
+
+# ![heroku](https://s3.amazonaws.com/heroku.newsletter/heroku-logo.png)
+
+You have used all of your 550 Free Dyno hours for January 2018.
+
+If you verify your account with a credit card, you can receive 450 more Free
+Dyno hours a month.
+
+One or more of your Free Dyno apps are becoming more popular. Upgrade your app
+to Hobby dynos for $7 per dyno per month so it never sleeps and users can
+access it 24/7. A monitoring service could unintentionally be keeping your app
+awake. Run heroku logs -t to view your app's logs to see if this is the case
+and remove Pingdom, New Relic or other availability monitoring services that
+are not required for a free app Your application may not have a web dyno at
+all. Once worker-only apps are started, they run 24/7. You can avoid this by
+upgrading to a hobby dyno, or by manually scaling down your application
+
+Dyno sleeping lets us provide you and millions of other users with a free tier
+for experimenting, hacking on personal projects and running low traffic apps.
+
+We're here to help and would love to hear from you or answer any questions at
+help.heroku.com.
+
+Happy coding,
+
+Heroku
+
+![](https://telex.heroku.com/user/notifications/7e60b8d0-e7c3-4130-8fbc-
+cb165316069f/read.png)  
+---  
+' b'You have used all of your 550 Free Dyno hours for January 2018.
+
+  * If you verify your account with a credit card, you can receive 450 more Free Dyno hours a month.
+  * One or more of your Free Dyno apps are becoming more popular. Upgrade your app to Hobby dynos for $7 per dyno per month so it never sleeps and users can access it 24/7.
+  * A monitoring service could unintentionally be keeping your app awake. Run 
+    
+        heroku logs -t
+
+to view your app's logs to see if this is the case and remove Pingdom, New
+Relic or other availability monitoring services that are not required for a
+free app
+
+  * Your application may not have a web dyno at all. Once worker-only apps are started, they run 24/7. You can avoid this by upgrading to a hobby dyno, or by manually scaling down your application
+
+Dyno sleeping lets us provide you and millions of other users with a free tier
+for experimenting, hacking on personal projects and running low traffic apps.
+We're here to help and would love to hear from you or answer any questions at
+help.heroku.com. Happy coding, Heroku' b' |  |
+
+# ![heroku](https://s3.amazonaws.com/heroku.newsletter/heroku-logo.png)
+
+You have used all of your 550 Free Dyno hours for January 2018.
+
+If you verify your account with a credit card, you can receive 450 more Free
+Dyno hours a month.
+
+One or more of your Free Dyno apps are becoming more popular. Upgrade your app
+to Hobby dynos for $7 per dyno per month so it never sleeps and users can
+access it 24/7. A monitoring service could unintentionally be keeping your app
+awake. Run heroku logs -t to view your app's logs to see if this is the case
+and remove Pingdom, New Relic or other availability monitoring services that
+are not required for a free app Your application may not have a web dyno at
+all. Once worker-only apps are started, they run 24/7. You can avoid this by
+upgrading to a hobby dyno, or by manually scaling down your application
+
+Dyno sleeping lets us provide you and millions of other users with a free tier
+for experimenting, hacking on personal projects and running low traffic apps.
+
+We're here to help and would love to hear from you or answer any questions at
+help.heroku.com.
+
+Happy coding,
+
+Heroku
+
+![](https://telex.heroku.com/user/notifications/7e60b8d0-e7c3-4130-8fbc-
+cb165316069f/read.png)  
+---  
+'
+
+b'You have used all of your 550 Free Dyno hours for January 2018.
+
+  * If you verify your account with a credit card, you can receive 450 more Free Dyno hours a month.
+  * One or more of your Free Dyno apps are becoming more popular. Upgrade your app to Hobby dynos for $7 per dyno per month so it never sleeps and users can access it 24/7.
+  * A monitoring service could unintentionally be keeping your app awake. Run 
+    
+        heroku logs -t
+
+to view your app's logs to see if this is the case and remove Pingdom, New
+Relic or other availability monitoring services that are not required for a
+free app
+
+  * Your application may not have a web dyno at all. Once worker-only apps are started, they run 24/7. You can avoid this by upgrading to a hobby dyno, or by manually scaling down your application
+
+Dyno sleeping lets us provide you and millions of other users with a free tier
+for experimenting, hacking on personal projects and running low traffic apps.
+We're here to help and would love to hear from you or answer any questions at
+help.heroku.com. Happy coding, Heroku' b' |  |
+
+# ![heroku](https://s3.amazonaws.com/heroku.newsletter/heroku-logo.png)
+
+You have used all of your 550 Free Dyno hours for January 2018.
+
+If you verify your account with a credit card, you can receive 450 more Free
+Dyno hours a month.
+
+One or more of your Free Dyno apps are becoming more popular. Upgrade your app
+to Hobby dynos for $7 per dyno per month so it never sleeps and users can
+access it 24/7. A monitoring service could unintentionally be keeping your app
+awake. Run heroku logs -t to view your app's logs to see if this is the case
+and remove Pingdom, New Relic or other availability monitoring services that
+are not required for a free app Your application may not have a web dyno at
+all. Once worker-only apps are started, they run 24/7. You can avoid this by
+upgrading to a hobby dyno, or by manually scaling down your application
+
+Dyno sleeping lets us provide you and millions of other users with a free tier
+for experimenting, hacking on personal projects and running low traffic apps.
+
+We're here to help and would love to hear from you or answer any questions at
+help.heroku.com.
+
+Happy coding,
+
+Heroku
+
+![](https://telex.heroku.com/user/notifications/7e60b8d0-e7c3-4130-8fbc-
+cb165316069f/read.png)  
+---  
+' b'You have used all of your 550 Free Dyno hours for January 2018.
+
+  * If you verify your account with a credit card, you can receive 450 more Free Dyno hours a month.
+  * One or more of your Free Dyno apps are becoming more popular. Upgrade your app to Hobby dynos for $7 per dyno per month so it never sleeps and users can access it 24/7.
+  * A monitoring service could unintentionally be keeping your app awake. Run 
+    
+        heroku logs -t
+
+to view your app's logs to see if this is the case and remove Pingdom, New
+Relic or other availability monitoring services that are not required for a
+free app
+
+  * Your application may not have a web dyno at all. Once worker-only apps are started, they run 24/7. You can avoid this by upgrading to a hobby dyno, or by manually scaling down your application
+
+Dyno sleeping lets us provide you and millions of other users with a free tier
+for experimenting, hacking on personal projects and running low traffic apps.
+We're here to help and would love to hear from you or answer any questions at
+help.heroku.com. Happy coding, Heroku' b' |  |
+
+# ![heroku](https://s3.amazonaws.com/heroku.newsletter/heroku-logo.png)
+
+You have used all of your 550 Free Dyno hours for January 2018.
+
+If you verify your account with a credit card, you can receive 450 more Free
+Dyno hours a month.
+
+One or more of your Free Dyno apps are becoming more popular. Upgrade your app
+to Hobby dynos for $7 per dyno per month so it never sleeps and users can
+access it 24/7. A monitoring service could unintentionally be keeping your app
+awake. Run heroku logs -t to view your app's logs to see if this is the case
+and remove Pingdom, New Relic or other availability monitoring services that
+are not required for a free app Your application may not have a web dyno at
+all. Once worker-only apps are started, they run 24/7. You can avoid this by
+upgrading to a hobby dyno, or by manually scaling down your application
+
+Dyno sleeping lets us provide you and millions of other users with a free tier
+for experimenting, hacking on personal projects and running low traffic apps.
+
+We're here to help and would love to hear from you or answer any questions at
+help.heroku.com.
+
+Happy coding,
+
+Heroku
+
+![](https://telex.heroku.com/user/notifications/7e60b8d0-e7c3-4130-8fbc-
+cb165316069f/read.png)  
+---  
+'
+
+b'You have used all of your 550 Free Dyno hours for January 2018.
+
+  * If you verify your account with a credit card, you can receive 450 more Free Dyno hours a month.
+  * One or more of your Free Dyno apps are becoming more popular. Upgrade your app to Hobby dynos for $7 per dyno per month so it never sleeps and users can access it 24/7.
+  * A monitoring service could unintentionally be keeping your app awake. Run 
+    
+        heroku logs -t
+
+to view your app's logs to see if this is the case and remove Pingdom, New
+Relic or other availability monitoring services that are not required for a
+free app
+
+  * Your application may not have a web dyno at all. Once worker-only apps are started, they run 24/7. You can avoid this by upgrading to a hobby dyno, or by manually scaling down your application
+
+Dyno sleeping lets us provide you and millions of other users with a free tier
+for experimenting, hacking on personal projects and running low traffic apps.
+We're here to help and would love to hear from you or answer any questions at
+help.heroku.com. Happy coding, Heroku' b' |  |
+
+# ![heroku](https://s3.amazonaws.com/heroku.newsletter/heroku-logo.png)
+
+You have used all of your 550 Free Dyno hours for January 2018.
+
+If you verify your account with a credit card, you can receive 450 more Free
+Dyno hours a month.
+
+One or more of your Free Dyno apps are becoming more popular. Upgrade your app
+to Hobby dynos for $7 per dyno per month so it never sleeps and users can
+access it 24/7. A monitoring service could unintentionally be keeping your app
+awake. Run heroku logs -t to view your app's logs to see if this is the case
+and remove Pingdom, New Relic or other availability monitoring services that
+are not required for a free app Your application may not have a web dyno at
+all. Once worker-only apps are started, they run 24/7. You can avoid this by
+upgrading to a hobby dyno, or by manually scaling down your application
+
+Dyno sleeping lets us provide you and millions of other users with a free tier
+for experimenting, hacking on personal projects and running low traffic apps.
+
+We're here to help and would love to hear from you or answer any questions at
+help.heroku.com.
+
+Happy coding,
+
+Heroku
+
+![](https://telex.heroku.com/user/notifications/7e60b8d0-e7c3-4130-8fbc-
+cb165316069f/read.png)  
+---  
+' b'You have used all of your 550 Free Dyno hours for January 2018.
+
+  * If you verify your account with a credit card, you can receive 450 more Free Dyno hours a month.
+  * One or more of your Free Dyno apps are becoming more popular. Upgrade your app to Hobby dynos for $7 per dyno per month so it never sleeps and users can access it 24/7.
+  * A monitoring service could unintentionally be keeping your app awake. Run 
+    
+        heroku logs -t
+
+to view your app's logs to see if this is the case and remove Pingdom, New
+Relic or other availability monitoring services that are not required for a
+free app
+
+  * Your application may not have a web dyno at all. Once worker-only apps are started, they run 24/7. You can avoid this by upgrading to a hobby dyno, or by manually scaling down your application
+
+Dyno sleeping lets us provide you and millions of other users with a free tier
+for experimenting, hacking on personal projects and running low traffic apps.
+We're here to help and would love to hear from you or answer any questions at
+help.heroku.com. Happy coding, Heroku' b' |  |
+
+# ![heroku](https://s3.amazonaws.com/heroku.newsletter/heroku-logo.png)
+
+You have used all of your 550 Free Dyno hours for January 2018.
+
+If you verify your account with a credit card, you can receive 450 more Free
+Dyno hours a month.
+
+One or more of your Free Dyno apps are becoming more popular. Upgrade your app
+to Hobby dynos for $7 per dyno per month so it never sleeps and users can
+access it 24/7. A monitoring service could unintentionally be keeping your app
+awake. Run heroku logs -t to view your app's logs to see if this is the case
+and remove Pingdom, New Relic or other availability monitoring services that
+are not required for a free app Your application may not have a web dyno at
+all. Once worker-only apps are started, they run 24/7. You can avoid this by
+upgrading to a hobby dyno, or by manually scaling down your application
+
+Dyno sleeping lets us provide you and millions of other users with a free tier
+for experimenting, hacking on personal projects and running low traffic apps.
+
+We're here to help and would love to hear from you or answer any questions at
+help.heroku.com.
+
+Happy coding,
+
+Heroku
+
+![](https://telex.heroku.com/user/notifications/7e60b8d0-e7c3-4130-8fbc-
+cb165316069f/read.png)  
+---  
+'
+
+b'You have used all of your 550 Free Dyno hours for January 2018.
+
+  * If you verify your account with a credit card, you can receive 450 more Free Dyno hours a month.
+  * One or more of your Free Dyno apps are becoming more popular. Upgrade your app to Hobby dynos for $7 per dyno per month so it never sleeps and users can access it 24/7.
+  * A monitoring service could unintentionally be keeping your app awake. Run 
+    
+        heroku logs -t
+
+to view your app's logs to see if this is the case and remove Pingdom, New
+Relic or other availability monitoring services that are not required for a
+free app
+
+  * Your application may not have a web dyno at all. Once worker-only apps are started, they run 24/7. You can avoid this by upgrading to a hobby dyno, or by manually scaling down your application
+
+Dyno sleeping lets us provide you and millions of other users with a free tier
+for experimenting, hacking on personal projects and running low traffic apps.
+We're here to help and would love to hear from you or answer any questions at
+help.heroku.com. Happy coding, Heroku' b' |  |
+
+# ![heroku](https://s3.amazonaws.com/heroku.newsletter/heroku-logo.png)
+
+You have used all of your 550 Free Dyno hours for January 2018.
+
+If you verify your account with a credit card, you can receive 450 more Free
+Dyno hours a month.
+
+One or more of your Free Dyno apps are becoming more popular. Upgrade your app
+to Hobby dynos for $7 per dyno per month so it never sleeps and users can
+access it 24/7. A monitoring service could unintentionally be keeping your app
+awake. Run heroku logs -t to view your app's logs to see if this is the case
+and remove Pingdom, New Relic or other availability monitoring services that
+are not required for a free app Your application may not have a web dyno at
+all. Once worker-only apps are started, they run 24/7. You can avoid this by
+upgrading to a hobby dyno, or by manually scaling down your application
+
+Dyno sleeping lets us provide you and millions of other users with a free tier
+for experimenting, hacking on personal projects and running low traffic apps.
+
+We're here to help and would love to hear from you or answer any questions at
+help.heroku.com.
+
+Happy coding,
+
+Heroku
+
+![](https://telex.heroku.com/user/notifications/7e60b8d0-e7c3-4130-8fbc-
+cb165316069f/read.png)  
+---  
+' b'You have used all of your 550 Free Dyno hours for January 2018.
+
+  * If you verify your account with a credit card, you can receive 450 more Free Dyno hours a month.
+  * One or more of your Free Dyno apps are becoming more popular. Upgrade your app to Hobby dynos for $7 per dyno per month so it never sleeps and users can access it 24/7.
+  * A monitoring service could unintentionally be keeping your app awake. Run 
+    
+        heroku logs -t
+
+to view your app's logs to see if this is the case and remove Pingdom, New
+Relic or other availability monitoring services that are not required for a
+free app
+
+  * Your application may not have a web dyno at all. Once worker-only apps are started, they run 24/7. You can avoid this by upgrading to a hobby dyno, or by manually scaling down your application
+
+Dyno sleeping lets us provide you and millions of other users with a free tier
+for experimenting, hacking on personal projects and running low traffic apps.
+We're here to help and would love to hear from you or answer any questions at
+help.heroku.com. Happy coding, Heroku' b' |  |
+
+# ![heroku](https://s3.amazonaws.com/heroku.newsletter/heroku-logo.png)
+
+You have used all of your 550 Free Dyno hours for January 2018.
+
+If you verify your account with a credit card, you can receive 450 more Free
+Dyno hours a month.
+
+One or more of your Free Dyno apps are becoming more popular. Upgrade your app
+to Hobby dynos for $7 per dyno per month so it never sleeps and users can
+access it 24/7. A monitoring service could unintentionally be keeping your app
+awake. Run heroku logs -t to view your app's logs to see if this is the case
+and remove Pingdom, New Relic or other availability monitoring services that
+are not required for a free app Your application may not have a web dyno at
+all. Once worker-only apps are started, they run 24/7. You can avoid this by
+upgrading to a hobby dyno, or by manually scaling down your application
+
+Dyno sleeping lets us provide you and millions of other users with a free tier
+for experimenting, hacking on personal projects and running low traffic apps.
+
+We're here to help and would love to hear from you or answer any questions at
+help.heroku.com.
+
+Happy coding,
+
+Heroku
+
+![](https://telex.heroku.com/user/notifications/7e60b8d0-e7c3-4130-8fbc-
+cb165316069f/read.png)  
+---  
+'
+

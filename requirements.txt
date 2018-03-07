@@ -1,0 +1,8 @@
+auth == 0.5.3
+google_api_python_client == 1.6.4
+html2text == 2018.1.9
+httplib2 == 0.10.3
+numpy == 1.13.1
+oauth2client == 4.1.2
+pandas == 0.20.1
+sklearn == 0.0

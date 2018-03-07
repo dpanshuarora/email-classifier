@@ -1,0 +1,632 @@
+b'Hi, I am trying to train my model with a for loop: for i in epochs:
+model.train(sentences, epochs=1, total_examples=model.corpus_count) take the
+word vectors (matrix), apply some changes (I need a np matrix) put those
+updated vectors back into my model Do you know what must be done in order to
+achieve it? I know that I could access the vectors via model.wv.vectors, but
+will these vectors change in my whole model? I am sorry, I am just not so
+experienced with programming, trying to do harder things than I can code :)
+Greetings, Jakub \-- You received this message because you are subscribed to
+the Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hi,
+
+  
+
+I am trying to train my model with a for loop:
+
+  
+
+for i in epochs:
+
+Â Â model.train(sentences, epochs=1, total_examples=model.corpus_count)Â
+
+Â Â take the word vectors (matrix), apply some changes (I need a np matrix)
+
+Â Â put those updated vectors back into my model
+
+  
+
+Do you know what must be done in order to achieve it? I know that I could
+access the vectors via model.wv.vectors, but will these vectors change in my
+whole model?Â
+
+  
+
+I am sorry, I am just not so experienced with programming, trying to do harder
+things than I can code :)
+
+  
+
+Greetings,
+
+Jakub
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hi, I am trying to train my model with a for loop: for i in epochs:
+model.train(sentences, epochs=1, total_examples=model.corpus_count) take the
+word vectors (matrix), apply some changes (I need a np matrix) put those
+updated vectors back into my model Do you know what must be done in order to
+achieve it? I know that I could access the vectors via model.wv.vectors, but
+will these vectors change in my whole model? I am sorry, I am just not so
+experienced with programming, trying to do harder things than I can code :)
+Greetings, Jakub \-- You received this message because you are subscribed to
+the Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hi,
+
+  
+
+I am trying to train my model with a for loop:
+
+  
+
+for i in epochs:
+
+Â Â model.train(sentences, epochs=1, total_examples=model.corpus_count)Â
+
+Â Â take the word vectors (matrix), apply some changes (I need a np matrix)
+
+Â Â put those updated vectors back into my model
+
+  
+
+Do you know what must be done in order to achieve it? I know that I could
+access the vectors via model.wv.vectors, but will these vectors change in my
+whole model?Â
+
+  
+
+I am sorry, I am just not so experienced with programming, trying to do harder
+things than I can code :)
+
+  
+
+Greetings,
+
+Jakub
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hi, I am trying to train my model with a for loop: for i in epochs:
+model.train(sentences, epochs=1, total_examples=model.corpus_count) take the
+word vectors (matrix), apply some changes (I need a np matrix) put those
+updated vectors back into my model Do you know what must be done in order to
+achieve it? I know that I could access the vectors via model.wv.vectors, but
+will these vectors change in my whole model? I am sorry, I am just not so
+experienced with programming, trying to do harder things than I can code :)
+Greetings, Jakub \-- You received this message because you are subscribed to
+the Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hi,
+
+  
+
+I am trying to train my model with a for loop:
+
+  
+
+for i in epochs:
+
+Â Â model.train(sentences, epochs=1, total_examples=model.corpus_count)Â
+
+Â Â take the word vectors (matrix), apply some changes (I need a np matrix)
+
+Â Â put those updated vectors back into my model
+
+  
+
+Do you know what must be done in order to achieve it? I know that I could
+access the vectors via model.wv.vectors, but will these vectors change in my
+whole model?Â
+
+  
+
+I am sorry, I am just not so experienced with programming, trying to do harder
+things than I can code :)
+
+  
+
+Greetings,
+
+Jakub
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'Hi, I am trying to train my model with a for loop: for i in epochs:
+model.train(sentences, epochs=1, total_examples=model.corpus_count) take the
+word vectors (matrix), apply some changes (I need a np matrix) put those
+updated vectors back into my model Do you know what must be done in order to
+achieve it? I know that I could access the vectors via model.wv.vectors, but
+will these vectors change in my whole model? I am sorry, I am just not so
+experienced with programming, trying to do harder things than I can code :)
+Greetings, Jakub \-- You received this message because you are subscribed to
+the Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hi,
+
+  
+
+I am trying to train my model with a for loop:
+
+  
+
+for i in epochs:
+
+Â Â model.train(sentences, epochs=1, total_examples=model.corpus_count)Â
+
+Â Â take the word vectors (matrix), apply some changes (I need a np matrix)
+
+Â Â put those updated vectors back into my model
+
+  
+
+Do you know what must be done in order to achieve it? I know that I could
+access the vectors via model.wv.vectors, but will these vectors change in my
+whole model?Â
+
+  
+
+I am sorry, I am just not so experienced with programming, trying to do harder
+things than I can code :)
+
+  
+
+Greetings,
+
+Jakub
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hi, I am trying to train my model with a for loop: for i in epochs:
+model.train(sentences, epochs=1, total_examples=model.corpus_count) take the
+word vectors (matrix), apply some changes (I need a np matrix) put those
+updated vectors back into my model Do you know what must be done in order to
+achieve it? I know that I could access the vectors via model.wv.vectors, but
+will these vectors change in my whole model? I am sorry, I am just not so
+experienced with programming, trying to do harder things than I can code :)
+Greetings, Jakub \-- You received this message because you are subscribed to
+the Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hi,
+
+  
+
+I am trying to train my model with a for loop:
+
+  
+
+for i in epochs:
+
+Â Â model.train(sentences, epochs=1, total_examples=model.corpus_count)Â
+
+Â Â take the word vectors (matrix), apply some changes (I need a np matrix)
+
+Â Â put those updated vectors back into my model
+
+  
+
+Do you know what must be done in order to achieve it? I know that I could
+access the vectors via model.wv.vectors, but will these vectors change in my
+whole model?Â
+
+  
+
+I am sorry, I am just not so experienced with programming, trying to do harder
+things than I can code :)
+
+  
+
+Greetings,
+
+Jakub
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hi, I am trying to train my model with a for loop: for i in epochs:
+model.train(sentences, epochs=1, total_examples=model.corpus_count) take the
+word vectors (matrix), apply some changes (I need a np matrix) put those
+updated vectors back into my model Do you know what must be done in order to
+achieve it? I know that I could access the vectors via model.wv.vectors, but
+will these vectors change in my whole model? I am sorry, I am just not so
+experienced with programming, trying to do harder things than I can code :)
+Greetings, Jakub \-- You received this message because you are subscribed to
+the Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hi,
+
+  
+
+I am trying to train my model with a for loop:
+
+  
+
+for i in epochs:
+
+Â Â model.train(sentences, epochs=1, total_examples=model.corpus_count)Â
+
+Â Â take the word vectors (matrix), apply some changes (I need a np matrix)
+
+Â Â put those updated vectors back into my model
+
+  
+
+Do you know what must be done in order to achieve it? I know that I could
+access the vectors via model.wv.vectors, but will these vectors change in my
+whole model?Â
+
+  
+
+I am sorry, I am just not so experienced with programming, trying to do harder
+things than I can code :)
+
+  
+
+Greetings,
+
+Jakub
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'Hi, I am trying to train my model with a for loop: for i in epochs:
+model.train(sentences, epochs=1, total_examples=model.corpus_count) take the
+word vectors (matrix), apply some changes (I need a np matrix) put those
+updated vectors back into my model Do you know what must be done in order to
+achieve it? I know that I could access the vectors via model.wv.vectors, but
+will these vectors change in my whole model? I am sorry, I am just not so
+experienced with programming, trying to do harder things than I can code :)
+Greetings, Jakub \-- You received this message because you are subscribed to
+the Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hi,
+
+  
+
+I am trying to train my model with a for loop:
+
+  
+
+for i in epochs:
+
+Â Â model.train(sentences, epochs=1, total_examples=model.corpus_count)Â
+
+Â Â take the word vectors (matrix), apply some changes (I need a np matrix)
+
+Â Â put those updated vectors back into my model
+
+  
+
+Do you know what must be done in order to achieve it? I know that I could
+access the vectors via model.wv.vectors, but will these vectors change in my
+whole model?Â
+
+  
+
+I am sorry, I am just not so experienced with programming, trying to do harder
+things than I can code :)
+
+  
+
+Greetings,
+
+Jakub
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hi, I am trying to train my model with a for loop: for i in epochs:
+model.train(sentences, epochs=1, total_examples=model.corpus_count) take the
+word vectors (matrix), apply some changes (I need a np matrix) put those
+updated vectors back into my model Do you know what must be done in order to
+achieve it? I know that I could access the vectors via model.wv.vectors, but
+will these vectors change in my whole model? I am sorry, I am just not so
+experienced with programming, trying to do harder things than I can code :)
+Greetings, Jakub \-- You received this message because you are subscribed to
+the Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hi,
+
+  
+
+I am trying to train my model with a for loop:
+
+  
+
+for i in epochs:
+
+Â Â model.train(sentences, epochs=1, total_examples=model.corpus_count)Â
+
+Â Â take the word vectors (matrix), apply some changes (I need a np matrix)
+
+Â Â put those updated vectors back into my model
+
+  
+
+Do you know what must be done in order to achieve it? I know that I could
+access the vectors via model.wv.vectors, but will these vectors change in my
+whole model?Â
+
+  
+
+I am sorry, I am just not so experienced with programming, trying to do harder
+things than I can code :)
+
+  
+
+Greetings,
+
+Jakub
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hi, I am trying to train my model with a for loop: for i in epochs:
+model.train(sentences, epochs=1, total_examples=model.corpus_count) take the
+word vectors (matrix), apply some changes (I need a np matrix) put those
+updated vectors back into my model Do you know what must be done in order to
+achieve it? I know that I could access the vectors via model.wv.vectors, but
+will these vectors change in my whole model? I am sorry, I am just not so
+experienced with programming, trying to do harder things than I can code :)
+Greetings, Jakub \-- You received this message because you are subscribed to
+the Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hi,
+
+  
+
+I am trying to train my model with a for loop:
+
+  
+
+for i in epochs:
+
+Â Â model.train(sentences, epochs=1, total_examples=model.corpus_count)Â
+
+Â Â take the word vectors (matrix), apply some changes (I need a np matrix)
+
+Â Â put those updated vectors back into my model
+
+  
+
+Do you know what must be done in order to achieve it? I know that I could
+access the vectors via model.wv.vectors, but will these vectors change in my
+whole model?Â
+
+  
+
+I am sorry, I am just not so experienced with programming, trying to do harder
+things than I can code :)
+
+  
+
+Greetings,
+
+Jakub
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'Hi, I am trying to train my model with a for loop: for i in epochs:
+model.train(sentences, epochs=1, total_examples=model.corpus_count) take the
+word vectors (matrix), apply some changes (I need a np matrix) put those
+updated vectors back into my model Do you know what must be done in order to
+achieve it? I know that I could access the vectors via model.wv.vectors, but
+will these vectors change in my whole model? I am sorry, I am just not so
+experienced with programming, trying to do harder things than I can code :)
+Greetings, Jakub \-- You received this message because you are subscribed to
+the Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hi,
+
+  
+
+I am trying to train my model with a for loop:
+
+  
+
+for i in epochs:
+
+Â Â model.train(sentences, epochs=1, total_examples=model.corpus_count)Â
+
+Â Â take the word vectors (matrix), apply some changes (I need a np matrix)
+
+Â Â put those updated vectors back into my model
+
+  
+
+Do you know what must be done in order to achieve it? I know that I could
+access the vectors via model.wv.vectors, but will these vectors change in my
+whole model?Â
+
+  
+
+I am sorry, I am just not so experienced with programming, trying to do harder
+things than I can code :)
+
+  
+
+Greetings,
+
+Jakub
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hi, I am trying to train my model with a for loop: for i in epochs:
+model.train(sentences, epochs=1, total_examples=model.corpus_count) take the
+word vectors (matrix), apply some changes (I need a np matrix) put those
+updated vectors back into my model Do you know what must be done in order to
+achieve it? I know that I could access the vectors via model.wv.vectors, but
+will these vectors change in my whole model? I am sorry, I am just not so
+experienced with programming, trying to do harder things than I can code :)
+Greetings, Jakub \-- You received this message because you are subscribed to
+the Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hi,
+
+  
+
+I am trying to train my model with a for loop:
+
+  
+
+for i in epochs:
+
+Â Â model.train(sentences, epochs=1, total_examples=model.corpus_count)Â
+
+Â Â take the word vectors (matrix), apply some changes (I need a np matrix)
+
+Â Â put those updated vectors back into my model
+
+  
+
+Do you know what must be done in order to achieve it? I know that I could
+access the vectors via model.wv.vectors, but will these vectors change in my
+whole model?Â
+
+  
+
+I am sorry, I am just not so experienced with programming, trying to do harder
+things than I can code :)
+
+  
+
+Greetings,
+
+Jakub
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hi, I am trying to train my model with a for loop: for i in epochs:
+model.train(sentences, epochs=1, total_examples=model.corpus_count) take the
+word vectors (matrix), apply some changes (I need a np matrix) put those
+updated vectors back into my model Do you know what must be done in order to
+achieve it? I know that I could access the vectors via model.wv.vectors, but
+will these vectors change in my whole model? I am sorry, I am just not so
+experienced with programming, trying to do harder things than I can code :)
+Greetings, Jakub \-- You received this message because you are subscribed to
+the Google Groups "gensim" group. To unsubscribe from this group and stop
+receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hi,
+
+  
+
+I am trying to train my model with a for loop:
+
+  
+
+for i in epochs:
+
+Â Â model.train(sentences, epochs=1, total_examples=model.corpus_count)Â
+
+Â Â take the word vectors (matrix), apply some changes (I need a np matrix)
+
+Â Â put those updated vectors back into my model
+
+  
+
+Do you know what must be done in order to achieve it? I know that I could
+access the vectors via model.wv.vectors, but will these vectors change in my
+whole model?Â
+
+  
+
+I am sorry, I am just not so experienced with programming, trying to do harder
+things than I can code :)
+
+  
+
+Greetings,
+
+Jakub
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
