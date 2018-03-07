@@ -1,5 +1,4 @@
-TO RUN THIS:
-(1) Install the requirements file by runnning 
+Install the requirements file by runnning:
 ```python
 pip install -r requirements.txt
 ```
@@ -10,5 +9,5 @@ python predict.py
 
 (1) It will ask for a gmail login id and password.
 (2) Grant modification permissions.
-(3) It will collect the email data and then classify it.
-(4) All travel emails will be labelled.
+(3) It will collect the latest emails and then classify them.
+(4) All travel emails will be labelled on the user's Gmail account.
