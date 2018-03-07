@@ -7,7 +7,7 @@ To classify emails simply run:
 python predict.py
 ```
 
-(1) It will ask for a gmail login id and password.
-(2) Grant modification permissions.
-(3) It will collect the latest emails and then classify them.
+(1) It will ask for a gmail login id and password.\n
+(2) Grant modification permissions.\n
+(3) It will collect the latest emails and then classify them.\n
 (4) All travel emails will be labelled on the user's Gmail account.
