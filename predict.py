@@ -18,8 +18,6 @@ from sklearn.externals import joblib
 import numpy as np # linear algebra
 import pandas as pd
 
-import timeit
-
 #Global variables to store message ids and messages
 msg_id_list=[]
 msg_body_list=[]
@@ -134,7 +132,8 @@ def main():
     ListLabels(service,'me')
     """
    
-    messages = service.users().messages().list(userId='me', labelIds = "Label_4").execute().get('messages', [])
+    messages = service.users().messages().list(userId='me', labelIds = "INBOX").execute().get('messages', [])
+    #INBOX is the label ID for inbox. This can be changed.
     print("Collecting all emails." + "\n" + "This may take a while...")
 
     print ("Total messages in inbox: ", str(len(messages)))
