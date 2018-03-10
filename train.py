@@ -102,11 +102,17 @@ targets = X_test
 clf = nb.fit(counts, targets)
 clf_svc = svc.fit(counts, targets)
 
+"""Splitting the data into X_train, X_test, y_train, y_test
+X_train, y_train are used to train the classifier and the prediction
+accuracy is calculated on X_test, y_test"""
 X_train, X_test, y_train, y_test = train_test_split(
     X_train, X_test, test_size=0.4, random_state=0)
 
+#Vectorize X_test
 X_test = count_vectorizer.transform(X_test)
+#Accuracy of Multinomial Naive Bayes
 print(clf.score(X_test, y_test))
+#Accuracy of Support Vector Machines
 print(clf_svc.score(X_test, y_test))
 
 pipeline = Pipeline([
@@ -114,4 +120,4 @@ pipeline = Pipeline([
     ('classifier',  nb) ])
 
 pipeline.fit(data['text'].values, data['class'].values)
-joblib.dump(pipeline, 'travel.pkl')
+joblib.dump(pipeline, 'travel.pkl') #prediction model is saved
