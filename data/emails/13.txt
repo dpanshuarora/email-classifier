@@ -1,0 +1,1526 @@
+b'The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models. For example, I would like to use the R fastrtext library, with a model
+from gensim - but cannot because there is no support an R. That said
+reticulate can be leveraged to load gensim for it to leverage the gensim
+model. Another fasttext library could not be used which which requires a
+native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45 AM
+UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have `load_fasttext_format`
+right now, which loads a native > `fasttext` binary format file. There is no
+support to *save* in binary > format. Could you elaborate more as to why
+exactly do you need this? > > -Shiva. > > On Tuesday, 23 January 2018 22:10:48
+UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way to save a model as a
+native fasttext binary format >> file? >> > \-- You received this message
+because you are subscribed to the Google Groups "gensim" group. To unsubscribe
+from this group and stop receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'The challenge come into play for having an interchange format for
+languages that don't support the native gensim binary model but support
+fasttext binary models. For example, I would like to use the R fastrtext
+library, with a model from gensim - but cannot because there is no support an
+R. That said reticulate can be leveraged to load gensim for it to leverage the
+gensim model. Another fasttext library could not be used which which requires
+a native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45
+AM UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have
+`load_fasttext_format` right now, which loads a native > `fasttext` binary
+format file. There is no support to *save* in binary > format. Could you
+elaborate more as to why exactly do you need this? > > -Shiva. > > On Tuesday,
+23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way
+to save a model as a native fasttext binary format >> file? >> > \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'The challenge come into play for having an interchange format for
+languages that don't support the native gensim binary model but support
+fasttext binary models. For example, I would like to use the R fastrtext
+library, with a model from gensim - but cannot because there is no support an
+R. That said reticulate can be leveraged to load gensim for it to leverage the
+gensim model. Another fasttext library could not be used which which requires
+a native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45
+AM UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have
+`load_fasttext_format` right now, which loads a native > `fasttext` binary
+format file. There is no support to *save* in binary > format. Could you
+elaborate more as to why exactly do you need this? > > -Shiva. > > On Tuesday,
+23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way
+to save a model as a native fasttext binary format >> file? >> > \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models. For example, I would like to use the R fastrtext library, with a model
+from gensim - but cannot because there is no support an R. That said
+reticulate can be leveraged to load gensim for it to leverage the gensim
+model. Another fasttext library could not be used which which requires a
+native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45 AM
+UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have `load_fasttext_format`
+right now, which loads a native > `fasttext` binary format file. There is no
+support to *save* in binary > format. Could you elaborate more as to why
+exactly do you need this? > > -Shiva. > > On Tuesday, 23 January 2018 22:10:48
+UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way to save a model as a
+native fasttext binary format >> file? >> > \-- You received this message
+because you are subscribed to the Google Groups "gensim" group. To unsubscribe
+from this group and stop receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'The challenge come into play for having an interchange format for
+languages that don't support the native gensim binary model but support
+fasttext binary models. For example, I would like to use the R fastrtext
+library, with a model from gensim - but cannot because there is no support an
+R. That said reticulate can be leveraged to load gensim for it to leverage the
+gensim model. Another fasttext library could not be used which which requires
+a native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45
+AM UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have
+`load_fasttext_format` right now, which loads a native > `fasttext` binary
+format file. There is no support to *save* in binary > format. Could you
+elaborate more as to why exactly do you need this? > > -Shiva. > > On Tuesday,
+23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way
+to save a model as a native fasttext binary format >> file? >> > \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'The challenge come into play for having an interchange format for
+languages that don't support the native gensim binary model but support
+fasttext binary models. For example, I would like to use the R fastrtext
+library, with a model from gensim - but cannot because there is no support an
+R. That said reticulate can be leveraged to load gensim for it to leverage the
+gensim model. Another fasttext library could not be used which which requires
+a native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45
+AM UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have
+`load_fasttext_format` right now, which loads a native > `fasttext` binary
+format file. There is no support to *save* in binary > format. Could you
+elaborate more as to why exactly do you need this? > > -Shiva. > > On Tuesday,
+23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way
+to save a model as a native fasttext binary format >> file? >> > \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models. For example, I would like to use the R fastrtext library, with a model
+from gensim - but cannot because there is no support an R. That said
+reticulate can be leveraged to load gensim for it to leverage the gensim
+model. Another fasttext library could not be used which which requires a
+native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45 AM
+UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have `load_fasttext_format`
+right now, which loads a native > `fasttext` binary format file. There is no
+support to *save* in binary > format. Could you elaborate more as to why
+exactly do you need this? > > -Shiva. > > On Tuesday, 23 January 2018 22:10:48
+UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way to save a model as a
+native fasttext binary format >> file? >> > \-- You received this message
+because you are subscribed to the Google Groups "gensim" group. To unsubscribe
+from this group and stop receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'The challenge come into play for having an interchange format for
+languages that don't support the native gensim binary model but support
+fasttext binary models. For example, I would like to use the R fastrtext
+library, with a model from gensim - but cannot because there is no support an
+R. That said reticulate can be leveraged to load gensim for it to leverage the
+gensim model. Another fasttext library could not be used which which requires
+a native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45
+AM UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have
+`load_fasttext_format` right now, which loads a native > `fasttext` binary
+format file. There is no support to *save* in binary > format. Could you
+elaborate more as to why exactly do you need this? > > -Shiva. > > On Tuesday,
+23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way
+to save a model as a native fasttext binary format >> file? >> > \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'The challenge come into play for having an interchange format for
+languages that don't support the native gensim binary model but support
+fasttext binary models. For example, I would like to use the R fastrtext
+library, with a model from gensim - but cannot because there is no support an
+R. That said reticulate can be leveraged to load gensim for it to leverage the
+gensim model. Another fasttext library could not be used which which requires
+a native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45
+AM UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have
+`load_fasttext_format` right now, which loads a native > `fasttext` binary
+format file. There is no support to *save* in binary > format. Could you
+elaborate more as to why exactly do you need this? > > -Shiva. > > On Tuesday,
+23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way
+to save a model as a native fasttext binary format >> file? >> > \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models. For example, I would like to use the R fastrtext library, with a model
+from gensim - but cannot because there is no support an R. That said
+reticulate can be leveraged to load gensim for it to leverage the gensim
+model. Another fasttext library could not be used which which requires a
+native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45 AM
+UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have `load_fasttext_format`
+right now, which loads a native > `fasttext` binary format file. There is no
+support to *save* in binary > format. Could you elaborate more as to why
+exactly do you need this? > > -Shiva. > > On Tuesday, 23 January 2018 22:10:48
+UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way to save a model as a
+native fasttext binary format >> file? >> > \-- You received this message
+because you are subscribed to the Google Groups "gensim" group. To unsubscribe
+from this group and stop receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'The challenge come into play for having an interchange format for
+languages that don't support the native gensim binary model but support
+fasttext binary models. For example, I would like to use the R fastrtext
+library, with a model from gensim - but cannot because there is no support an
+R. That said reticulate can be leveraged to load gensim for it to leverage the
+gensim model. Another fasttext library could not be used which which requires
+a native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45
+AM UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have
+`load_fasttext_format` right now, which loads a native > `fasttext` binary
+format file. There is no support to *save* in binary > format. Could you
+elaborate more as to why exactly do you need this? > > -Shiva. > > On Tuesday,
+23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way
+to save a model as a native fasttext binary format >> file? >> > \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'The challenge come into play for having an interchange format for
+languages that don't support the native gensim binary model but support
+fasttext binary models. For example, I would like to use the R fastrtext
+library, with a model from gensim - but cannot because there is no support an
+R. That said reticulate can be leveraged to load gensim for it to leverage the
+gensim model. Another fasttext library could not be used which which requires
+a native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45
+AM UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have
+`load_fasttext_format` right now, which loads a native > `fasttext` binary
+format file. There is no support to *save* in binary > format. Could you
+elaborate more as to why exactly do you need this? > > -Shiva. > > On Tuesday,
+23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way
+to save a model as a native fasttext binary format >> file? >> > \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models. For example, I would like to use the R fastrtext library, with a model
+from gensim - but cannot because there is no support an R. That said
+reticulate can be leveraged to load gensim for it to leverage the gensim
+model. Another fasttext library could not be used which which requires a
+native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45 AM
+UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have `load_fasttext_format`
+right now, which loads a native > `fasttext` binary format file. There is no
+support to *save* in binary > format. Could you elaborate more as to why
+exactly do you need this? > > -Shiva. > > On Tuesday, 23 January 2018 22:10:48
+UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way to save a model as a
+native fasttext binary format >> file? >> > \-- You received this message
+because you are subscribed to the Google Groups "gensim" group. To unsubscribe
+from this group and stop receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'The challenge come into play for having an interchange format for
+languages that don't support the native gensim binary model but support
+fasttext binary models. For example, I would like to use the R fastrtext
+library, with a model from gensim - but cannot because there is no support an
+R. That said reticulate can be leveraged to load gensim for it to leverage the
+gensim model. Another fasttext library could not be used which which requires
+a native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45
+AM UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have
+`load_fasttext_format` right now, which loads a native > `fasttext` binary
+format file. There is no support to *save* in binary > format. Could you
+elaborate more as to why exactly do you need this? > > -Shiva. > > On Tuesday,
+23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way
+to save a model as a native fasttext binary format >> file? >> > \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'The challenge come into play for having an interchange format for
+languages that don't support the native gensim binary model but support
+fasttext binary models. For example, I would like to use the R fastrtext
+library, with a model from gensim - but cannot because there is no support an
+R. That said reticulate can be leveraged to load gensim for it to leverage the
+gensim model. Another fasttext library could not be used which which requires
+a native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45
+AM UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have
+`load_fasttext_format` right now, which loads a native > `fasttext` binary
+format file. There is no support to *save* in binary > format. Could you
+elaborate more as to why exactly do you need this? > > -Shiva. > > On Tuesday,
+23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way
+to save a model as a native fasttext binary format >> file? >> > \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models. For example, I would like to use the R fastrtext library, with a model
+from gensim - but cannot because there is no support an R. That said
+reticulate can be leveraged to load gensim for it to leverage the gensim
+model. Another fasttext library could not be used which which requires a
+native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45 AM
+UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have `load_fasttext_format`
+right now, which loads a native > `fasttext` binary format file. There is no
+support to *save* in binary > format. Could you elaborate more as to why
+exactly do you need this? > > -Shiva. > > On Tuesday, 23 January 2018 22:10:48
+UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way to save a model as a
+native fasttext binary format >> file? >> > \-- You received this message
+because you are subscribed to the Google Groups "gensim" group. To unsubscribe
+from this group and stop receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'The challenge come into play for having an interchange format for
+languages that don't support the native gensim binary model but support
+fasttext binary models. For example, I would like to use the R fastrtext
+library, with a model from gensim - but cannot because there is no support an
+R. That said reticulate can be leveraged to load gensim for it to leverage the
+gensim model. Another fasttext library could not be used which which requires
+a native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45
+AM UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have
+`load_fasttext_format` right now, which loads a native > `fasttext` binary
+format file. There is no support to *save* in binary > format. Could you
+elaborate more as to why exactly do you need this? > > -Shiva. > > On Tuesday,
+23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way
+to save a model as a native fasttext binary format >> file? >> > \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'The challenge come into play for having an interchange format for
+languages that don't support the native gensim binary model but support
+fasttext binary models. For example, I would like to use the R fastrtext
+library, with a model from gensim - but cannot because there is no support an
+R. That said reticulate can be leveraged to load gensim for it to leverage the
+gensim model. Another fasttext library could not be used which which requires
+a native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45
+AM UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have
+`load_fasttext_format` right now, which loads a native > `fasttext` binary
+format file. There is no support to *save* in binary > format. Could you
+elaborate more as to why exactly do you need this? > > -Shiva. > > On Tuesday,
+23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way
+to save a model as a native fasttext binary format >> file? >> > \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models. For example, I would like to use the R fastrtext library, with a model
+from gensim - but cannot because there is no support an R. That said
+reticulate can be leveraged to load gensim for it to leverage the gensim
+model. Another fasttext library could not be used which which requires a
+native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45 AM
+UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have `load_fasttext_format`
+right now, which loads a native > `fasttext` binary format file. There is no
+support to *save* in binary > format. Could you elaborate more as to why
+exactly do you need this? > > -Shiva. > > On Tuesday, 23 January 2018 22:10:48
+UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way to save a model as a
+native fasttext binary format >> file? >> > \-- You received this message
+because you are subscribed to the Google Groups "gensim" group. To unsubscribe
+from this group and stop receiving emails from it, send an email to
+gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'The challenge come into play for having an interchange format for
+languages that don't support the native gensim binary model but support
+fasttext binary models. For example, I would like to use the R fastrtext
+library, with a model from gensim - but cannot because there is no support an
+R. That said reticulate can be leveraged to load gensim for it to leverage the
+gensim model. Another fasttext library could not be used which which requires
+a native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45
+AM UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have
+`load_fasttext_format` right now, which loads a native > `fasttext` binary
+format file. There is no support to *save* in binary > format. Could you
+elaborate more as to why exactly do you need this? > > -Shiva. > > On Tuesday,
+23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way
+to save a model as a native fasttext binary format >> file? >> > \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'The challenge come into play for having an interchange format for
+languages that don't support the native gensim binary model but support
+fasttext binary models. For example, I would like to use the R fastrtext
+library, with a model from gensim - but cannot because there is no support an
+R. That said reticulate can be leveraged to load gensim for it to leverage the
+gensim model. Another fasttext library could not be used which which requires
+a native format. Kind regards, Omar On Wednesday, January 24, 2018 at 1:07:45
+AM UTC-5, Shiva Manne wrote: > > Hi Omar, > > We only have
+`load_fasttext_format` right now, which loads a native > `fasttext` binary
+format file. There is no support to *save* in binary > format. Could you
+elaborate more as to why exactly do you need this? > > -Shiva. > > On Tuesday,
+23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote: >> >> Hi - is there a way
+to save a model as a native fasttext binary format >> file? >> > \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+The challenge come into play for having an interchange format for languages
+that don't support the native gensim binary model but support fasttext binary
+models.
+
+  
+For example, I would like to use the R fastrtext library, with a model from
+gensim - but cannot because there is no support an R. That said reticulate can
+be leveraged to load gensim for it to leverage the gensim model.Â Another
+fasttext library could not be used which which requires a native format.Â
+
+  
+
+Kind regards,
+
+Omar
+
+  
+On Wednesday, January 24, 2018 at 1:07:45 AM UTC-5, Shiva Manne wrote:
+
+> Hi Omar,
+
+>
+
+>  
+>
+
+>
+
+> We only have `load_fasttext_format` right now, which loads a native
+`fasttext` binary format file. There is no support to **save** in binary
+format. Could you elaborate more as to why exactly do you need this?Â
+
+>
+
+>  
+>
+
+>
+
+> -Shiva.  
+>  
+> On Tuesday, 23 January 2018 22:10:48 UTC+5:30, Omar Khan wrote:
+
+>
+
+>> Hi - is there a way to save a model as a native fasttext binary format
+file?Â
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+

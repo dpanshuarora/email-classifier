@@ -1,0 +1,560 @@
+b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+
+b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+' b'Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model. The question is, how to infer topic distribution of
+a new document using this author topic model. I know in gensim LDA model it
+can be done by calling model[doc_bow]. Thank you for you help:) \-- You
+received this message because you are subscribed to the Google Groups "gensim"
+group. To unsubscribe from this group and stop receiving emails from it, send
+an email to gensim+unsubscribe@googlegroups.com. For more options, visit
+https://groups.google.com/d/optout. ' b'
+
+Hello, I'm new to gensim author topic model. I follow the atm tutorial and
+finish training the model.
+
+The question is, how to infer topic distribution of a new document using this
+author topic model. I know in gensim LDA model it can be done by calling
+model[doc_bow].  
+
+  
+
+Thank you for you help:)
+
+\--  
+You received this message because you are subscribed to the Google Groups
+"gensim" group.  
+To unsubscribe from this group and stop receiving emails from it, send an
+email to gensim+unsubscribe@googlegroups.com.  
+For more options, visit https://groups.google.com/d/optout.  
+'
+

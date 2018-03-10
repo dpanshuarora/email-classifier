@@ -14,6 +14,7 @@ import base64
 from html.parser import HTMLParser
 import html2text
 
+from train import SklearnHelper
 from sklearn.externals import joblib
 import numpy as np # linear algebra
 import pandas as pd
@@ -132,7 +133,7 @@ def main():
     ListLabels(service,'me')
     """
    
-    messages = service.users().messages().list(userId='me', labelIds = "INBOX").execute().get('messages', [])
+    messages = service.users().messages().list(userId='me', labelIds = "Label_4").execute().get('messages', [])
     #INBOX is the label ID for inbox. This can be changed.
     print("Collecting all emails." + "\n" + "This may take a while...")
 
