@@ -2,7 +2,7 @@ Install the requirements file by runnning:
 ```python
 pip install -r requirements.txt
 ```
-To classify emails simply run: 
+To classify emails run: 
 ```python
 python predict.py
 ```
